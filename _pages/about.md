@@ -15,8 +15,9 @@ BinCosmos group led by [Selma de Mink](http://www.selmademink.com/).
 My PhD work focuses on understanding the late-time evolution, death, 
 and after-life of "stripped stars", massive stars that have lost
 their outer layers due to interactions in binary systems. To 
-this end, I employ numerical simulations with the open-source 
-codes [MESA](http://mesa.sourceforge.net/), [SNEC](https://stellarcollapse.org/SNEC), 
+this end, I perform numerical simulations. For computing the 
+stellar structures and their evolution, I use the code [MESA](http://mesa.sourceforge.net/), 
+and for studying the supernova explosions and comparing them to observations, I employ [SNEC](https://stellarcollapse.org/SNEC) 
 and [MOSFiT](https://mosfit.readthedocs.io/en/latest/#).
 
 My research interests include the evolution of massive stars, 

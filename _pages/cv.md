@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Here is a link to my [CV](/files/cv_eva_laplace_english.pdf) in pdf format 
-(last updated: october 2019).
+(last updated: October 2019).
 
 {% include base_path %}
 

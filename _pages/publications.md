@@ -7,6 +7,8 @@ author_profile: true
 
 This page is still under construction and will be updated soon
 
+
+<!---
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -16,3 +18,4 @@ This page is still under construction and will be updated soon
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+--->

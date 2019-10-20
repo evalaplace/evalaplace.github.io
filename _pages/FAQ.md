@@ -5,10 +5,12 @@ permalink: /faq/
 author_profile: true
 ---
 
-**Are you related to [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace), the famous physicist and mathematician?**
+**Are you related to [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace), the famous astronomer and mathematician?**
 
 Of course! Why else would I do what I do? 
-Jokes aside, sorry to disappoint, but it looks like we are not related. My last name is pretty common in France. We may have close common ancestors though since some parts of my ancestry is French.
+
+Jokes aside, sorry to disappoint, but it looks like we are not related. My last name is pretty common in France. 
+We may have close common ancestors though since some parts of my ancestry is French.
 
 ----
 

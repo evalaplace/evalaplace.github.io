@@ -7,7 +7,14 @@ redirect_from:
   - /resume
 ---
 
+Here is a link to my [CV](/files/cv_eva_laplace_english.pdf) in pdf format 
+(last updated: october 2019).
+
 {% include base_path %}
+
+This page is still under construction and will be updated soon
+
+<!--- 
 
 Education
 ======
@@ -57,3 +64,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+--->

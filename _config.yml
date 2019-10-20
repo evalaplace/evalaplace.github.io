@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eva Laplace / Webpage"
 title_separator          : "-"
 name                     : &name "Eva Laplace"
-description              : &description "PhD candidate at the University of Amsterdam"
+description              : &description "PhD candidate in astrophysics at the University of Amsterdam"
 url                      : https://evalaplace.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "evalaplace/evalaplace.github.io"
@@ -227,7 +227,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
       type: portfolio

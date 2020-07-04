@@ -85,8 +85,8 @@ author:
   bio              : "PhD candidate in astrophysics at the University of Amsterdam"
   location         : "University of Amsterdam"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           :
+  googlescholar    :
   email            : "e.c.laplace@uva.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

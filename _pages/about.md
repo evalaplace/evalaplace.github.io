@@ -35,7 +35,8 @@ Science degree in physics at the
 
 For my research projects, I had the opportunity to work at the [Institut für Astronomie und Astrophysik](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-astrophysik/institut/astronomie/forschung/prof-santangelo-abteilung-hochenergieastrophysik/)
 in Tübingen, Germany, at the [European Space Astronomy Centre (ESAC)](https://www.esa.int/About_Us/ESAC) in Madrid, Spain, 
-and at [RIKEN](https://www.riken.jp/en/research/labs/rnc/high_ener_astro/), near Tokyo, Japan. More details can be found in the [CV](/cv/) section.
+at [RIKEN](https://www.riken.jp/en/research/labs/rnc/high_ener_astro/), near Tokyo, Japan and at the 
+[National Astronomical Observatory of Japan](https://www.nao.ac.jp/en/) in Tokyo, Japan. More details can be found in the [CV](/cv/) section.
 
 Feel free to [contact](mailto:e.c.laplace@uva.nl) me.
 

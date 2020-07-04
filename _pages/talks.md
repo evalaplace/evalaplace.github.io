@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and posters"
 permalink: /talks/
 author_profile: true
 ---
 
-Here is a list of recent talks and posters.
+##Talks
 - July 2020 European Astronomy Society meeting and Netherlands Astronomy Conference (online). "How being single or in a couple affects the death of massive stars".
 - April 2020 Lunch Seminar, Anton Pannekoek Institute ([online](https://www.youtube.com/watch?v=AUfWdZGugyo&feature=youtu.be)). "A new way to visualize the structure 
 and evolution of stars"

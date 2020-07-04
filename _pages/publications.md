@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-This page is still under construction and will be updated soon
+Find my publications at [ADS](https://ui.adsabs.harvard.edu/search/q=docs(library%2FMsPZZawhQSG7g0YRmqvmog)&sort=date%20desc%2C%20bibcode%20desc&p_=0) or [ORCID](https://orcid.org/0000-0003-1009-5691).
 
 
 <!---

@@ -17,11 +17,8 @@ progenitor structures and light-curves are still lacking.
 
 Better understanding these systems is particularly important in our era of multi-messenger astrophysics since
 they are the progenitors of the most energetic explosions in the universe, supernovae and gamma-ray bursts, and naturally
-lead to the formation of gravitational wave sources.
+lead to the formation of gravitational-wave sources.
 
-My Ph.D. project aims at exploring the evolution of stripped stars from interacting binaries, and at understanding
+My PhD project aims at exploring the evolution of stripped stars from interacting binaries, and at understanding
 their explosion properties by computing their detailed stellar structures and light-curves using 1D hydrodynamic
 simulation codes (MESA for the binary evolution and SNEC for the Supernova explosion).
-
-
-**This page is still under construction and will be updated soon**

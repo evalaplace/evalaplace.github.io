@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my web page! I’m a PhD candidate in astrophysics at the [Anton Pannekoek Institute](https://api.uva.nl/), University of Amsterdam, where I'm part of the 
-BinCosmos group led by [Selma de Mink](http://www.selmademink.com/). 
-
+I’m a PhD candidate in astrophysics at the [Anton Pannekoek Institute](https://api.uva.nl/) interested in massive binary stars, 
+supernovae explosions, and gravitational-wave sources. I'm part of the 
+BinCosmos group led by [Selma de Mink](http://www.selmademink.com/). My co-advisor is Stephen Justham. 
 
 My PhD work focuses on understanding the late-time evolution, death, 
 and after-life of "stripped stars", massive stars that have lost
@@ -22,7 +22,7 @@ and [MOSFiT](https://mosfit.readthedocs.io/en/latest/#).
 
 My research interests include the evolution of massive stars, 
 supernovae, X-ray binaries, unexplained transients, and 
- gravitational wave progenitors. I'm also interested in developing computing tools for astrophysics. 
+ gravitational-wave progenitors. I'm also interested in developing computing tools for astrophysics. 
  Learn more about this in 
  the [research](/research/) section.
  

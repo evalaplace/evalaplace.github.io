@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eva Laplace / Webpage"
+title                    : "Eva Laplace"
 title_separator          : "-"
 name                     : &name "Eva Laplace"
 description              : &description "PhD candidate in astrophysics at the University of Amsterdam"

@@ -12,8 +12,6 @@ Here is a link to my [CV](http://evalaplace.github.io/files/cv_eva_laplace_engli
 
 {% include base_path %}
 
-This page is still under construction and will be updated soon
-
 <!--- 
 
 Education

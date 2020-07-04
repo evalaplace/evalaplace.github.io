@@ -5,7 +5,9 @@ permalink: /tools/
 author_profile: true
 ---
 
-This page is still under construction and will be updated soon
+More information about the [BeXRB monitor](http://integral.esac.esa.int/bexrbmonitor/webpage_oneplot.php) and 
+[TULIPS](https://www.youtube.com/watch?v=AUfWdZGugyo&feature=youtu.be), the Tool for Understanding the Lives, Interiors, 
+and Physics of Stars will be added soon.
 
 
 <!---

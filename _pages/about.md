@@ -22,7 +22,7 @@ supernovae, X-ray binaries, unexplained transients, and
  gravitational-wave progenitors. Learn more about this in 
  the [research](/research/) section.
  
- I'm also interested in developing computing tools for astrophysics, including a real-time monitor of the activity of 
+ I'm also interested in developing computing tools for astrophysics. Tools I have developed or am currently developing include a real-time monitor of the activity of 
  Be X-ray binaries, and TULIPS, the Tool for Understanding the Lives, Interiors, and Physics of Stars. Learn more about this in 
  the [computing tools](/tools/) section.
 
@@ -30,8 +30,11 @@ supernovae, X-ray binaries, unexplained transients, and
 Before I began my PhD, I 
 completed a Bachelor of Science and then a Master of 
 Science degree in physics at the 
-[University of Tübingen](https://uni-tuebingen.de/), Germany. I specialised in the field of high energy astrophysics and 
- focused on understanding the properties of accreting X-ray pulsars and Be X-ray binaries. 
+[University of Tübingen](https://uni-tuebingen.de/), Germany. I specialized in the field of high energy astrophysics and 
+ focused on understanding the properties of accreting X-ray pulsars and Be X-ray binaries. I completed my Bachelor thesis 
+ at the [European Space Astronomy Centre (ESAC)](https://www.esa.int/About_Us/ESAC), in Madrid, Spain, during a three months traineeship. 
+  For my Master's thesis I visited the MAXI laboratory in [RIKEN](https://www.riken.jp/en/research/labs/rnc/high_ener_astro/)
+ for 9 months in part as an [International Program Associate](https://www.riken.jp/en/careers/programs/ipa/).
 
 For my research projects, I had the opportunity to work at the [Institut für Astronomie und Astrophysik](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-astrophysik/institut/astronomie/forschung/prof-santangelo-abteilung-hochenergieastrophysik/)
 in Tübingen, Germany, at the [European Space Astronomy Centre (ESAC)](https://www.esa.int/About_Us/ESAC) in Madrid, Spain, 

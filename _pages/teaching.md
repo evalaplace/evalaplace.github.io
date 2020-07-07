@@ -7,8 +7,6 @@ author_profile: true
 
 
 <h2>Teaching</h2>
-- October 2019 – September: Teaching assistant for stargazing nights, University of Amsterdam,
-2020 NL
 - October – December 2019: Teaching assistant for the MSc lecture Structure and Evolution of
 stars, University of Amsterdam, NL, Lecturer: Prof. Henny Lamers
 - February – March 2019: Teaching assistant for the MSc lecture Structure and Evolution of
@@ -21,4 +19,4 @@ Kolleg, Tübingen, Germany
 
 <h2>Advising</h2>
 - 2019: Co-advisor of Carla Alejandra Calle García, summer student participating in the [ASPIRE](https://aspire.science.uva.nl/index.html) program, together with [Rob Farmer](http://rjfarmer.io/).
-- 2018: Co-advisor of Thomas Dodds, Bachelor of Science student, together with [Selma de Mink](http://www.selmademink.com/).
+- 2018: Advisor of Thomas Dodds, Bachelor of Science student, together with [Selma de Mink](http://www.selmademink.com/).

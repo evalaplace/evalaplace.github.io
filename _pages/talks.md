@@ -20,8 +20,8 @@ Japan. "Life and deaths of stars stripped in massive binaries:
 Consequences for supernovae and gravitational-wave sources".
 - May 2019: **Fifty-one ergs conference, University of North Carolina, Raleigh,
 USA**. "From stripped stars to gravitational waves".
-- April 2019: **Spring symposium of the Space Telescope Science Institute, Baltimore, USA**. "The size of stripped-envelope supernovae pro-
-genitors and its impact on gravitational wave events". [Link to the talk](https://cloudproject.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=872ed262-1f6f-4278-9d71-aa37014c37d5)
+- April 2019: **Spring symposium of the Space Telescope Science Institute, Baltimore, USA**. "The size of stripped-envelope supernova
+ progenitors and its impact on gravitational wave events". [Link to the talk](https://cloudproject.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=872ed262-1f6f-4278-9d71-aa37014c37d5)
 - November 2018: **Massive stars and Supernovae conference, Bariloche, Argentina**
 "Exploding stripped stars".
 - October 2018: Bonn-Amsterdam-Leuven massive stars meeting, Leuven, Belgium.

@@ -33,13 +33,13 @@ Science degree in physics at the
 [University of Tübingen](https://uni-tuebingen.de/), Germany. I specialized in the field of high energy astrophysics and 
  focused on understanding the properties of accreting X-ray pulsars and Be X-ray binaries. I completed my Bachelor thesis 
  at the [European Space Astronomy Centre (ESAC)](https://www.esa.int/About_Us/ESAC), in Madrid, Spain, during a three months traineeship. 
-  For my Master's thesis I visited the MAXI laboratory in [RIKEN](https://www.riken.jp/en/research/labs/rnc/high_ener_astro/)
- for 9 months in part as an [International Program Associate](https://www.riken.jp/en/careers/programs/ipa/).
+  During my Master's thesis, I had the privilege to visit the [MAXI](http://maxi.riken.jp/top/index.html) team laboratory in [RIKEN](https://www.riken.jp/en/research/labs/rnc/high_ener_astro/), Wako-shi, Japan,
+ for an extended stay of 9 months.
 
-For my research projects, I had the opportunity to work at the [Institut für Astronomie und Astrophysik](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-astrophysik/institut/astronomie/forschung/prof-santangelo-abteilung-hochenergieastrophysik/)
-in Tübingen, Germany, at the [European Space Astronomy Centre (ESAC)](https://www.esa.int/About_Us/ESAC) in Madrid, Spain, 
-at [RIKEN](https://www.riken.jp/en/research/labs/rnc/high_ener_astro/), near Tokyo, Japan and at the 
-[National Astronomical Observatory of Japan](https://www.nao.ac.jp/en/) in Tokyo, Japan. More details can be found in the [CV](/cv/) section.
+For my research projects, I had the opportunity to work at the [National Astronomical Observatory of Japan](https://www.nao.ac.jp/en/) 
+in Tokyo, Japan (2019), at the [Institut für Astronomie und Astrophysik](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-astrophysik/institut/astronomie/forschung/prof-santangelo-abteilung-hochenergieastrophysik/)
+in Tübingen, Germany (2013-2017), at [RIKEN](https://www.riken.jp/en/research/labs/rnc/high_ener_astro/), near Tokyo, Japan (2016),
+ and at the [European Space Astronomy Centre (ESAC)](https://www.esa.int/About_Us/ESAC) in Madrid, Spain (Summers 2014 and 2015). More details can be found in the [CV](/cv/) section.
 
 Feel free to [contact](mailto:e.c.laplace@uva.nl) me.
 

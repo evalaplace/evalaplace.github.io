@@ -7,8 +7,8 @@ author_profile: true
 
 *Last updated in July 2020.*
 
-<h2>Articles in refereed journals</h2>
 ******
+<h2>Articles in refereed journals</h2>
 
 * Polluting the pair-instability mass gap for binary black holes through super-Eddington accretion in isolated binaries  
   L. A. C. van Son; S. E. de Mink;  F. S. Broekgaarden; M. Renzo; S. Justham; **E. Laplace**; J. Moran-Fraile; D. D. Hendriks; 
@@ -37,8 +37,9 @@ Lukin; N. I. Shakura
 2015, Monthly Notices of the Royal Astronomical
 Society 452 (2): 1601-1611; [doi: 10.1093/mnras/stv1393](https://ui.adsabs.harvard.edu/link_gateway/2015MNRAS.452.1601P/doi:10.1093/mnras/stv1393)
 
-<h2>Articles in preparation</h2>
 ******
+<h2>Articles in preparation</h2>
+
 * Stripped binary stars as core-collapse supernovae progenitors  
 D. Vartanyan; **E. Laplace**; M. Renzo; Y. Götberg; A. Burrows; S. E. de Mink (to be submitted in < 3 months)
  

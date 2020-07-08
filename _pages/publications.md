@@ -7,7 +7,7 @@ author_profile: true
 
 *Last updated in July 2020.*
 
-<h2>Articles in refereed journal</h2>
+<h2>Articles in refereed journals</h2>
 ******
 
 * Polluting the pair-instability mass gap for binary black holes through super-Eddington accretion in isolated binaries  

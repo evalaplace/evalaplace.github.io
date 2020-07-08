@@ -42,7 +42,7 @@ Society 452 (2): 1601-1611; [doi: 10.1093/mnras/stv1393](https://ui.adsabs.harva
 * Stripped binary stars as core-collapse supernovae progenitors  
 D. Vartanyan; **E. Laplace**; M. Renzo; Y. Götberg; A. Burrows; S. E. de Mink (to be submitted in < 3 months)
  
-* Single and binary progenitors of core-collapse supernovae  
+* How being single or in a couple affects the death of massive stars  
 **E. Laplace** et al. (to be submitted in < 3 months)
 
 * TULIPS, a Tool for Understanding the Lives, Interiors, and Physics of Stars  

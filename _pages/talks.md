@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+*Last updated in July 2020.*
+
+******
+
 <h2>Talks</h2>
 - July 2020: **European Astronomy Society meeting and Netherlands Astronomy Conference (online)**. "How being single or in a couple affects the death of massive stars".
 - April 2020:  Lunch Seminar, Anton Pannekoek Institute. "A new way to visualize the structure 

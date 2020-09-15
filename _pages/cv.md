@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-Here is a link to my [CV](http://evalaplace.github.io/files/cv_eva_laplace_english.pdf) in pdf format 
-(last updated: October 2019).
+Here is a link to my [CV](http://evalaplace.github.io/files/cv_eva_laplace.pdf) in pdf format 
+(last updated: September 2020).
 
 {% include base_path %}
 

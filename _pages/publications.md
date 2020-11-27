@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-*Last updated in July 2020.*
+*Last updated in November 2020.*
 
 ******
 <h2>Articles in refereed journals</h2>
@@ -39,13 +39,14 @@ Society 452 (2): 1601-1611; [doi: 10.1093/mnras/stv1393](https://ui.adsabs.harva
 
 ******
 <h2>Articles in preparation</h2>
+
 * Different to the core: the pre-supernova structures of massive single and binary-stripped stars  
 **E. Laplace**; S. Justham; M. Renzo; Y. Götberg; R. Farmer; D. Vartanyan & S. E. de Mink (to be submitted shortly)
 
 * Stripped binary stars as core-collapse supernovae progenitors  
 D. Vartanyan; **E. Laplace**; M. Renzo; Y. Götberg; A. Burrows; S. E. de Mink (to be submitted in < 3 months) 
 
-* The differences in supernova nucleosynthesis from single and binary-stripped star progenitors
+* The differences in supernova nucleosynthesis from single and binary-stripped star progenitors     
 R. Farmer; **E. Laplace** et al.
 
 

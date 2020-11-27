@@ -39,15 +39,15 @@ Society 452 (2): 1601-1611; [doi: 10.1093/mnras/stv1393](https://ui.adsabs.harva
 
 ******
 <h2>Articles in preparation</h2>
+* Different to the core: the pre-supernova structures of massive single and binary-stripped stars  
+**E. Laplace**; S. Justham; M. Renzo; Y. Götberg; R. Farmer; D. Vartanyan & S. E. de Mink (to be submitted shortly)
 
 * Stripped binary stars as core-collapse supernovae progenitors  
-D. Vartanyan; **E. Laplace**; M. Renzo; Y. Götberg; A. Burrows; S. E. de Mink (to be submitted in < 3 months)
- 
-* How being single or in a couple affects the death of massive stars  
-**E. Laplace** et al. (to be submitted in < 3 months)
+D. Vartanyan; **E. Laplace**; M. Renzo; Y. Götberg; A. Burrows; S. E. de Mink (to be submitted in < 3 months) 
 
-* TULIPS, a Tool for Understanding the Lives, Interiors, and Physics of Stars  
-**E. Laplace** (to be submitted in < 6 months)
+* The differences in supernova nucleosynthesis from single and binary-stripped star progenitors
+R. Farmer; **E. Laplace** et al.
+
 
 
 A detailed list of all publications can also be found at [ADS](https://ui.adsabs.harvard.edu/public-libraries/MsPZZawhQSG7g0YRmqvmog) or [ORCID](https://orcid.org/0000-0003-1009-5691).

@@ -5,10 +5,10 @@ permalink: /tools/
 author_profile: true
 ---
 
-**Update: November 2020** I have just been awarded the Outreach award of the Royal Holland Society of Sciences and Humanities 
+<span style="color:red">**Update: November 2020** I have just been awarded the Outreach award of the Royal Holland Society of Sciences and Humanities 
 for developing the TULIPS project further. For more information, see the press release: 
 [original in Dutch](https://www.astronomie.nl/nieuws/eva-laplace-wint-communicatieprijs-voor-software-die-levensloop-van-ster-toont-2542) or 
-[English translation](https://www.astronomie.nl/eva-laplace-wins-communication-prize-for-software-that-shows-life-cycle-of-stars-92)
+[English translation](https://www.astronomie.nl/eva-laplace-wins-communication-prize-for-software-that-shows-life-cycle-of-stars-92)</span>
 
 More information about the [BeXRB monitor](http://integral.esac.esa.int/bexrbmonitor/webpage_oneplot.php) and 
 [TULIPS](https://www.youtube.com/watch?v=AUfWdZGugyo&feature=youtu.be), the Tool for Understanding the Lives, Interiors, 

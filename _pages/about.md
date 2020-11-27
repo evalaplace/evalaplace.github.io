@@ -13,7 +13,7 @@ I’m a PhD candidate in astrophysics at the [Anton Pannekoek Institute](https:/
 supernovae explosions, and gravitational-wave sources. I'm part of the 
 BinCosmos group led by [Selma de Mink](http://www.selmademink.com/). My co-advisor is Stephen Justham. 
 
-My PhD work focuses on understanding the late-time evolution, death, 
+My PhD work focuses on understanding the late-time evolution, death,
 and after-life of "stripped stars", massive stars that have lost
 their outer layers due to interactions in binary systems. To 
 this end, I perform numerical simulations with [MESA](http://mesa.sourceforge.net/) and [SNEC](https://stellarcollapse.org/SNEC) 

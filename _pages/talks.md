@@ -65,3 +65,15 @@ Consequences for supernovae and gravitational-wave sources" - Sep. 2019
 Be X-ray binary EXO 2030+375" - Mar. 2016
 - Talk at Tech Talk seminar, **European Space Astronomy Centre Madrid**, Spain "The BeXRB monitor" - Aug. 2015
 - Talk at High Energy Astrophysics seminar, **University of Tübingen**, Tübingen, Germany "The BeXRB monitor" - Oct. 2014
+
+<h2> Posters </h2>
+
+- Yukawa International worskhop Neutron stars and black holes with gravitational waves at the Yukawa
+Institute for Theoretical Physics, Kyoto, Japan (poster: The size of stars stripped in massive binaries
+and its impact on gravitational wave events) – Oct. 2019
+- Conference: Shocking Supernovae, Stockholm, Sweden (poster: Self-consistent full evolutionary binary models of
+stripped-envelope supernova progenitors) – May 2018
+- Conference: Impact of binaries on stellar evolution, ESO Garching, Germany (poster: Are long-term periodicities
+and giant outbursts in BeXRBs driven by Kozai-Lidov oscillations?) – Jul. 2017
+- Conference: 7 years of MAXI, RIKEN, Saitama, Japan (poster: Long-term periodicities in the Be X-ray binary
+EXO 2030+375?) – Dec. 2016

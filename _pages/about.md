@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:blue">**News**: I am currently on the job market and looking for postdoctoral fellowships starting in Fall 2021 </span>.
+<span style="color:blue">**News**: I am currently on the job market and looking for postdoctoral fellowships starting in Fall 2021 </span>
 
 I’m a PhD candidate in astrophysics at the [Anton Pannekoek Institute](https://api.uva.nl/) entering my final year and interested in massive binary stars, 
 supernovae explosions, and gravitational-wave sources. I'm part of the 

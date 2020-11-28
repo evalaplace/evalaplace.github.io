@@ -27,5 +27,3 @@ lead to the formation of gravitational-wave sources.
 My PhD project aims at exploring the evolution of stripped stars from interacting binaries, and at understanding
 their explosion properties by computing their detailed stellar structures and light-curves using 1D hydrodynamic
 simulation codes (MESA for the binary evolution and SNEC for the Supernova explosion).
-
-Updated

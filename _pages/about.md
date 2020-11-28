@@ -6,6 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+    overlay_image: opo0932a.jpg
+    caption: "Credit: NASA, ESA, and F. Paresce (INAF-IASF, Bologna, Italy), R. O'Connell (University of Virginia, 
+    Charlottesville), and the Wide Field Camera 3 Science Oversight Committee"
 ---
 <span style="color:blue">**News**: I am currently on the job market and looking for postdoctoral fellowships starting in Fall 2021 </span>
 

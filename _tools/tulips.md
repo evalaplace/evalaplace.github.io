@@ -9,7 +9,7 @@ header:
     F. Seward et al.; VLA/NRAO/AUI/NSF; Chandra/CXC; Spitzer/JPL-Caltech; XMM-Newton/ESA; and Hubble/STScI"
 ---
 
-
+{% include figure image_path="https://evalaplace.github.io/images/Tulips_white.png" alt="Logo design: A. Faber" %}
 
 TULIPS helps visualize the physics of how stars evolve over time in an intuitive manner. Instead of complex diagrams, 
 stars are represented as circles that change in size and color over time. I have been developing TULIPS since 2018 and 

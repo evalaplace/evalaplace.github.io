@@ -3,6 +3,9 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+header:
+ overlay_image: /images/heic2007a.jpg
+ caption: "Credit: NASA, ESA, and STScI"
 ---
 
 *Last updated in November 2020.*

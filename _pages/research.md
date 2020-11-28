@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Research"
+excerpt: "A list of past and current research projects"
 permalink: /research/
 author_profile: true
 header:
@@ -8,7 +9,6 @@ header:
   caption: "Credit: NASA, ESA, Hubble Heritage Team"
 ---
 
-Here is a list of past and current research projects
 
 ## The lives, deaths and afterlives of stars stripped in binary systems
 

@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: archive
 title: "TULIPS"
 excerpt: "An award-winning tool for visualizing how stars evolve based on advanced simulations"
 collection: tools

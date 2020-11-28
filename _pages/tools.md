@@ -8,7 +8,7 @@ header:
     caption: "Credit: NASA, ESA, G. Dubner (IAFE, CONICET-University of Buenos Aires) et al.; A. Loll et al.; T. Temim et al.;
     F. Seward et al.; VLA/NRAO/AUI/NSF; Chandra/CXC; Spitzer/JPL-Caltech; XMM-Newton/ESA; and Hubble/STScI"
 feature_row:
-  - image_path: /images/Tulips_dark.png
+  - image_path: Tulips_dark.png
     alt: "Logo design: A. Faber"
     title: "TULIPS"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."

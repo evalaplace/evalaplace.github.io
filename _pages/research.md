@@ -1,9 +1,11 @@
 ---
 layout: archive
 title: "Research"
-excerpt: "A list of past and current research projects"
+excerpt: "A collection of past and current research projects"
 permalink: /research/
 author_profile: true
+layout: collection
+entries_layout: grid
 header:
   overlay_image: heic1520a.jpg  
   caption: "Credit: NASA, ESA, Hubble Heritage Team"

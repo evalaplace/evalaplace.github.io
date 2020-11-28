@@ -1,7 +1,7 @@
 ---
 title: "TULIPS"
 excerpt: "An award-winning tool for visualizing how stars evolve based on advanced simulations <br/><img src='/images/Tulips_dark.png'>"
-collection: portfolio
+collection: tools
 ---
 
 ![logo_with_text](../images/Tulips_white.png "Logo design: A. Faber")

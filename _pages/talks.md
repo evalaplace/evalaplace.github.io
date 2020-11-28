@@ -4,8 +4,8 @@ title: "Talks and posters"
 permalink: /talks/
 author_profile: true
 header:
-    overlay_image: potw1608a.jpg
-    caption: "Credit: ESA/Hubble & NASA; Acknowledgement: Judy Schmidt"
+    overlay_image: opo0501a.jpg
+    caption: "Credit:NASA, ESA, and The Hubble Heritage Team (STScI/AURA)"
 ---
 
 *Last updated in November 2020.*

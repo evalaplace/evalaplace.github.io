@@ -4,8 +4,8 @@ title: "Teaching and advising experience"
 permalink: /teaching/
 author_profile: true
 header:
-    overlay_image: heic0101a.jpg
-    caption: "Credit: NASA, ESA and the Hubble Heritage Team (STScI/AURA)"
+    overlay_image: potw1533a.jpg
+    caption: "Credit: ESA/Hubble & NASA; Acknowledgement: Judy Schmidt (geckzilla.com)"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "TULIPS"
-excerpt: "An award-winning tool for visualizing how stars evolve based on advanced simulations <br/><img src='/images/Tulips_dark.png'>"
+excerpt: "An award-winning tool for visualizing how stars evolve based on advanced simulations"
 collection: tools
 header:
     overlay_image: potw1720a.jpg

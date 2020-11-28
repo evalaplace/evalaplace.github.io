@@ -7,6 +7,17 @@ header:
     overlay_image: potw1720a.jpg
     caption: "Credit: NASA, ESA, G. Dubner (IAFE, CONICET-University of Buenos Aires) et al.; A. Loll et al.; T. Temim et al.;
     F. Seward et al.; VLA/NRAO/AUI/NSF; Chandra/CXC; Spitzer/JPL-Caltech; XMM-Newton/ESA; and Hubble/STScI"
+feature_row:
+  - image_path: /images/Tulips_dark.png
+    alt: "Logo design: A. Faber"
+    title: "TULIPS"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#tulips"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#monitor"
 ---
 
 <span style="color:red">**Update: November 2020** I have just been awarded the 5000 Euro outreach award of the Royal 
@@ -19,6 +30,7 @@ More information about the [BeXRB monitor](http://integral.esac.esa.int/bexrbmon
 [TULIPS](https://www.youtube.com/watch?v=AUfWdZGugyo&feature=youtu.be), the Tool for Understanding the Lives, Interiors, 
 and Physics of Stars will be added soon.
 
+{% include feature_row %}
 
 <!---
 {% if author.googlescholar %}

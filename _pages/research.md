@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: archive
 title: "Research"
 excerpt: "A collection of past and current research projects"
 permalink: /research/

@@ -6,7 +6,6 @@ author_profile: true
 header:
   overlay_image: /images/heic1520.jpg  
   caption: "Credit: NASA, ESA, Hubble Heritage Team"
-  overlay_color: "#333"
 ---
 
 Here is a list of past and current research projects

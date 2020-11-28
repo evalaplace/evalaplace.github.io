@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 header:
-  overlay_image: heic1520.jpg  
+  overlay_image: heic1520a.jpg  
   caption: "Credit: NASA, ESA, Hubble Heritage Team"
 ---
 

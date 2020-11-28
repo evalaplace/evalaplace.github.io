@@ -3,6 +3,8 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+header:
+  overlay_color: "#333"
 ---
 
 Here is a list of past and current research projects

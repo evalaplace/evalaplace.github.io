@@ -3,6 +3,9 @@ layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
+header:
+    overlay_image: heic1509a
+    caption: NASA, ESA, the Hubble Heritage Team (STScI/AURA), A. Nota (ESA/STScI), and the Westerlund 2 Science Team
 redirect_from:
   - /resume
 ---

@@ -8,6 +8,7 @@ header:
     caption: NASA, ESA, the Hubble Heritage Team (STScI/AURA), A. Nota (ESA/STScI), and the Westerlund 2 Science Team
 redirect_from:
   - /resume
+show_date: true
 ---
 
 Here is a link to my [CV](http://evalaplace.github.io/files/cv_eva_laplace.pdf) in pdf format 

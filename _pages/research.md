@@ -1,11 +1,10 @@
 ---
-layout: archive
+layout: collection
 title: "Research"
 excerpt: "A collection of past and current research projects"
 permalink: /research/
 collection: research
 author_profile: true
-layout: collection
 entries_layout: grid
 header:
   overlay_image: heic1520a.jpg  

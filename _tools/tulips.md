@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "TULIPS"
 excerpt: "An award-winning tool for visualizing how stars evolve based on advanced simulations <br/><img src='/images/Tulips_dark.png'>"
 collection: tools
@@ -8,7 +9,7 @@ header:
     F. Seward et al.; VLA/NRAO/AUI/NSF; Chandra/CXC; Spitzer/JPL-Caltech; XMM-Newton/ESA; and Hubble/STScI"
 ---
 
-![logo_with_text](http://evalaplace.github.io/images/Tulips_white.png "Logo design: A. Faber")
+{% include figure image_path="images/Tulips_white.png" alt="Logo design: A. Faber" %}
 
 TULIPS helps visualize the physics of how stars evolve over time in an intuitive manner. Instead of complex diagrams, 
 stars are represented as circles that change in size and color over time. I have been developing TULIPS since 2018 and 

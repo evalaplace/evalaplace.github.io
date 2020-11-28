@@ -30,9 +30,11 @@ More information about the [BeXRB monitor](http://integral.esac.esa.int/bexrbmon
 [TULIPS](https://www.youtube.com/watch?v=AUfWdZGugyo&feature=youtu.be), the Tool for Understanding the Lives, Interiors, 
 and Physics of Stars will be added soon.
 
-{% include feature_row %}
+
 
 <!---
+{% include feature_row %}
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}

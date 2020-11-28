@@ -3,6 +3,9 @@ layout: archive
 title: "Talks and posters"
 permalink: /talks/
 author_profile: true
+header:
+    overlay_image: potw1608a.jpg
+    caption: "Credit: ESA/Hubble & NASA; Acknowledgement: Judy Schmidt"
 ---
 
 *Last updated in November 2020.*

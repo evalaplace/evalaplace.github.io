@@ -3,6 +3,10 @@ layout: archive
 title: "Computing Tools"
 permalink: /tools/
 author_profile: true
+header:
+    overlay_image: potw1720a.jpg
+    caption: "NASA, ESA, G. Dubner (IAFE, CONICET-University of Buenos Aires) et al.; A. Loll et al.; T. Temim et al.; 
+    F. Seward et al.; VLA/NRAO/AUI/NSF; Chandra/CXC; Spitzer/JPL-Caltech; XMM-Newton/ESA; and Hubble/STScI"
 ---
 
 <span style="color:red">**Update: November 2020** I have just been awarded the 5000 Euro outreach award of the Royal 

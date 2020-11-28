@@ -3,6 +3,10 @@ layout: archive
 title: "TULIPS"
 excerpt: "An award-winning tool for visualizing how stars evolve based on advanced simulations <br/><img src='/images/Tulips_dark.png'>"
 collection: tools
+header:
+    overlay_image: potw1720a.jpg
+    caption: "Credit: NASA, ESA, G. Dubner (IAFE, CONICET-University of Buenos Aires) et al.; A. Loll et al.; T. Temim et al.;
+    F. Seward et al.; VLA/NRAO/AUI/NSF; Chandra/CXC; Spitzer/JPL-Caltech; XMM-Newton/ESA; and Hubble/STScI"
 ---
 
 ![logo_with_text](evalaplace.github.io/images/Tulips_white.png "Logo design: A. Faber")

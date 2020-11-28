@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "TULIPS"
 excerpt: "An award-winning tool for visualizing how stars evolve based on advanced simulations <br/><img src='/images/Tulips_dark.png'>"
 collection: tools

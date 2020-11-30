@@ -25,14 +25,14 @@ and to make tutorials and videos of TULIPS available. Stay tuned!
 {% include figure image_path="https://evalaplace.github.io/images/test_single_M10.5_movie.gif" alt="Example TULIPS movie"
  caption="Example TULIPS movie showing how a 10 solar mass star 
 changes in size and in apparent color (as perceived by the human eye) over the course of its life. In the lower 
-left corner, you can see a classical Hertzsprung-Russell diagram"%}
+left corner, you can see a classical Hertzsprung-Russell diagram"%}{: .align-center}
 
 {% include figure image_path="https://evalaplace.github.io/images/test_single_M10.5_interior_movie.gif" 
 alt="Example TULIPS interior movie" caption="Example TULIPS movie showing how a 10 solar mass star 
 loses and generate energy over the course of its life. The radius of the circle is proportional to the mass of the star. 
 Redder colors indicate a very high energy generation (for example through nuclear fusion) and more purple colors 
 indicate heavy energy losses (for example through neutrino emission). In the lower left corner, you can see a classical 
-Hertzsprung-Russell diagram."%}
+Hertzsprung-Russell diagram."%}{: .align-center}
 
 For more information, have a look at a one-hour presentation I gave about TULIPS at a lunch seminar of the Anton Pannekoek Institute,
 University of Amsterdam:

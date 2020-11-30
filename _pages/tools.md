@@ -20,13 +20,13 @@ feature_row:
     url: "#monitor"
 ---
 
-<span style="color:red">**Update: November 2020** I have just been awarded the 5000 Euro outreach award of the Royal 
+<span style="color:red">**Update November 2020:** I have just been awarded the 5000 Euro outreach award of the Royal 
 Holland Society of Sciences and Humanities through the de Zeeuw-van Disshoeck fund
 for developing the TULIPS project further. For more information, see the press release: 
 [original in Dutch](https://www.astronomie.nl/nieuws/eva-laplace-wint-communicatieprijs-voor-software-die-levensloop-van-ster-toont-2542) or 
 [English translation](https://www.astronomie.nl/eva-laplace-wins-communication-prize-for-software-that-shows-life-cycle-of-stars-92)</span>
 
-Learn more about TULIPS, the Tool for Understanding the Lives, Interiors, and Physics of Stars [here](#tulips). 
+Learn more about TULIPS, the Tool for Understanding the Lives, Interiors, and Physics of Stars [here](/tulips). 
 
 During a traineeship at the European Space Astronomy Centre in 2014, I developed the BeXRB monitor, a tool for detecting 
 the activity of Be X-ray binaries from three different X-ray space telescopes in near real time using python, MySQL, 

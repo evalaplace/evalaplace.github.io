@@ -10,7 +10,7 @@ header:
     caption: "Credit: NASA, ESA, and F. Paresce (INAF-IASF, Bologna, Italy), R. O'Connell (University of Virginia, 
     Charlottesville), and the Wide Field Camera 3 Science Oversight Committee"
 ---
-<span style="color:blue">**News**: I am currently on the job market and looking for postdoctoral fellowships starting in Fall 2021 </span>
+<span style="color:blue">**News**: My latest paper is now available on [arXiv](https://arxiv.org/abs/2102.05036)!  </span>
 
 I’m a PhD candidate in astrophysics at the [Anton Pannekoek Institute](https://api.uva.nl/) entering my final year and interested in massive binary stars, 
 supernovae explosions, and gravitational-wave sources. I'm part of the 

@@ -54,7 +54,7 @@ D. Vartanyan; **E. Laplace**; M. Renzo; Y. Götberg; A. Burrows; S. E. de Mink (
 * The differences in supernova nucleosynthesis from single and binary-stripped star progenitors     
 R. Farmer; **E. Laplace** et al.
 
-* TULIPS: a Tool for Understanding the Lives, Interiors and Physics of Stars                              
+* TULIPS: a Tool for Understanding the Lives, Interiors, and Physics of Stars                              
 **E. Laplace** et al.
 
 

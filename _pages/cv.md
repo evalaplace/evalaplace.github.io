@@ -12,7 +12,7 @@ show_date: true
 ---
 
 Here is a link to my [CV](http://evalaplace.github.io/files/cv_eva_laplace.pdf) in pdf format 
-(last updated: November 2020).
+(last updated: February 2021).
 
 {% include base_path %}
 

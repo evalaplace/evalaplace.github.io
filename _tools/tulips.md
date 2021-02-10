@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "TULIPS"
-excerpt: "An award-winning tool for visualizing how stars evolve based on advanced simulations"
+excerpt: "A tool for visualizing how stars evolve based on advanced simulations"
 collection: tools
 header:
     overlay_image: potw1720a.jpg

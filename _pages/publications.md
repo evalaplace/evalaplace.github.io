@@ -8,16 +8,21 @@ header:
  caption: "Credit: NASA, ESA, and STScI"
 ---
 
-*Last updated in November 2020.*
+*Last updated in February 2021.*
 
 ******
 <h2>Articles in refereed journals</h2>
 
+* Different to the core: the pre-supernova structures of massive single and binary-stripped stars  
+**E. Laplace**; S. Justham; M. Renzo; Y. Götberg; R. Farmer; D. Vartanyan & S. E. de Mink           
+    Submitted to Astronomy & Astrophysics [arXiv:2102.05036](https://arxiv.org/abs/2102.05036)
+
 * Polluting the pair-instability mass gap for binary black holes through super-Eddington accretion in isolated binaries  
   L. A. C. van Son; S. E. de Mink;  F. S. Broekgaarden; M. Renzo; S. Justham; **E. Laplace**; J. Moran-Fraile; D. D. Hendriks; 
    R. Farmer  
-   accepted for publication in the Astrophysical Journal; [arXiv:2004.05187](https://arxiv.org/abs/2004.05187)
-   
+   2020, Astrophysical Journal; [doi:
+    10.3847/1538-4357/ab9809](https://ui.adsabs.harvard.edu/abs/2020ApJ...897..100V/abstract)
+    
 *  The expansion of stripped-envelope stars: Consequences for supernovae and gravitational-wave progenitors  
 **E. Laplace**, Y. Götberg, S. E. de Mink, S. Justham, and R. Farmer  
 2020, Astronomy & Astrophysics, 637, A6; [doi:10.1051/0004-6361/201937300](https://ui.adsabs.harvard.edu/link_gateway/2020A&A...637A...6L/doi:10.1051/0004-6361/201937300) 
@@ -43,15 +48,14 @@ Society 452 (2): 1601-1611; [doi: 10.1093/mnras/stv1393](https://ui.adsabs.harva
 ******
 <h2>Articles in preparation</h2>
 
-* Different to the core: the pre-supernova structures of massive single and binary-stripped stars  
-**E. Laplace**; S. Justham; M. Renzo; Y. Götberg; R. Farmer; D. Vartanyan & S. E. de Mink (to be submitted shortly)
-
 * Stripped binary stars as core-collapse supernovae progenitors  
-D. Vartanyan; **E. Laplace**; M. Renzo; Y. Götberg; A. Burrows; S. E. de Mink (to be submitted in < 3 months) 
+D. Vartanyan; **E. Laplace**; M. Renzo; Y. Götberg; A. Burrows; S. E. de Mink (to be submitted shortly) 
 
 * The differences in supernova nucleosynthesis from single and binary-stripped star progenitors     
 R. Farmer; **E. Laplace** et al.
 
+* TULIPS: a Tool for Understanding the Lives, Interiors and Physics of Stars                              
+**E. Laplace** et al.
 
 
 A detailed list of all publications can also be found at [ADS](https://ui.adsabs.harvard.edu/public-libraries/MsPZZawhQSG7g0YRmqvmog) or [ORCID](https://orcid.org/0000-0003-1009-5691).

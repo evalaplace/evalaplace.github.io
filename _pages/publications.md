@@ -8,15 +8,21 @@ header:
  caption: "Credit: NASA, ESA, and STScI"
 ---
 
-*Last updated in February 2021.*
+*Last updated in April 2021.*
 
 ******
-<h2>Articles in refereed journals</h2>
+<h2>Submitted articles</h2>
+
+* Binary-Stripped Stars as Core-Collapse Supernovae Progenitors  
+D. Vartanyan; **E. Laplace**; M. Renzo; Y. Götberg; A. Burrows; S. E. de Mink                                           
+Submitted to the Astrophysical Journal [arXiv:2104.03365](https://arxiv.org/abs/2104.03365)
 
 * Different to the core: the pre-supernova structures of massive single and binary-stripped stars  
 **E. Laplace**; S. Justham; M. Renzo; Y. Götberg; R. Farmer; D. Vartanyan & S. E. de Mink           
     Submitted to Astronomy & Astrophysics [arXiv:2102.05036](https://arxiv.org/abs/2102.05036)
 
+******
+<h2>Articles in refereed journals</h2>
 * Polluting the pair-instability mass gap for binary black holes through super-Eddington accretion in isolated binaries  
   L. A. C. van Son; S. E. de Mink;  F. S. Broekgaarden; M. Renzo; S. Justham; **E. Laplace**; J. Moran-Fraile; D. D. Hendriks; 
    R. Farmer  
@@ -47,15 +53,12 @@ Society 452 (2): 1601-1611; [doi: 10.1093/mnras/stv1393](https://ui.adsabs.harva
 
 ******
 <h2>Articles in preparation</h2>
-
-* Stripped binary stars as core-collapse supernovae progenitors  
-D. Vartanyan; **E. Laplace**; M. Renzo; Y. Götberg; A. Burrows; S. E. de Mink (to be submitted shortly) 
-
-* The differences in supernova nucleosynthesis from single and binary-stripped star progenitors     
-R. Farmer; **E. Laplace** et al.
-
 * TULIPS: a Tool for Understanding the Lives, Interiors, and Physics of Stars                              
-**E. Laplace** et al.
+**E. Laplace** - To be submitted to Astronomy & Computing
+
+* No Carbon left behind     
+R. Farmer; **E. Laplace** et al. - To be submitted to the Astrophysical Journal
+
 
 
 A detailed list of all publications can also be found at [ADS](https://ui.adsabs.harvard.edu/public-libraries/MsPZZawhQSG7g0YRmqvmog) or [ORCID](https://orcid.org/0000-0003-1009-5691).

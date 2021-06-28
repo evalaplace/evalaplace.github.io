@@ -10,7 +10,9 @@ header:
     caption: "Credit: NASA, ESA, and F. Paresce (INAF-IASF, Bologna, Italy), R. O'Connell (University of Virginia, 
     Charlottesville), and the Wide Field Camera 3 Science Oversight Committee"
 ---
-<span style="color:blue">**News**: My latest papers are now available on arXiv: [binary and single supernova progenitors](https://arxiv.org/abs/2102.05036) and [their 2D explosions](https://arxiv.org/abs/2104.03317) !  </span>
+<span style="color:blue">**News**: From November 2021 I will work as a postdoctoral researcher at the 
+[Heidelberg Institute for Theoretical Studies](https://www.h-its.org/), Germany, in the 
+group of [Fabian Schneider](https://www.fabian-schneider.com/).</span>
 
 I’m a PhD candidate in astrophysics at the [Anton Pannekoek Institute](https://api.uva.nl/) entering my final year and interested in massive binary stars, 
 supernovae explosions, and gravitational-wave sources. I'm part of the 

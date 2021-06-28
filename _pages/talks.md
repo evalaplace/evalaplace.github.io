@@ -8,7 +8,7 @@ header:
     caption: "Credit:NASA, ESA, and The Hubble Heritage Team (STScI/AURA)"
 ---
 
-*Last updated in November 2020.*
+*Last updated in June 2021.*
 
 ******
 
@@ -16,8 +16,12 @@ header:
 
 <h3> Invited seminars</h3>
 
+- Invited talk at the Stellar Astrophysics seminar, **Max Planck Institute for Astrophysics**, Garching, Germany "How being single or 
+stripped in a binary systems affects the deaths of massive stars" - Apr. 2021 (online)
+- Invited talk at the SPI-MAX Stellar Astrophysics seminar, **University of Oxford**, Oxford, UK "How being single or 
+stripped in a binary systems affects the deaths of massive stars" - Mar. 2021 (online)
 - Invited talk at monthly seminar, **European Space Astronomy Centre**, Madrid, Spain "How being single or 
-stripped in a binary systems affects the deaths of massive stars"- Oct. 2020
+stripped in a binary systems affects the deaths of massive stars" - Oct. 2020
 (online) [Link to the talk](https://esait.webex.com/webappng/sites/esait/recording/05553b4a57a24d22932d80056c422a03/playback)
 - Invited talk at high energy astrophysics seminar, **Hebrew University of Jerusalem**, Israel "Life and deaths of 
 stars stripped in massive binaries:
@@ -33,7 +37,10 @@ Consequences for supernovae and gravitational-wave sources" - Sep 2019.
 - Talk at conference (postponed): **IAU symposium Massive Stars Near and Far** - Ballyconnell, Ireland 
 "Life and deaths of stars stripped in massive binaries:
 Consequences for supernovae and gravitational-wave sources"
-(initially May 2020, awarded talk postponed to May 2021)
+(initially May 2020, awarded talk postponed to in-person meeting in May 2022)
+- Talk at conference : **IAU online preview of Massive Stars Near and Far symposium** - Ballyconnell, Ireland 
+"Life and deaths of stars stripped in massive binaries:
+Consequences for supernovae and gravitational-wave sources" - May 2021 (online)
 - Talk at the **VFTS collaboration** annual meeting "How being single or stripped in a binary systems affects 
 the deaths of massive stars"- Oct. 2020 (online).
 - Talk at conference: **German astronomical society meeting** "How being single or stripped in a binary systems 
@@ -55,6 +62,10 @@ Be X-ray binary EXO 2030+375" Ehime University, Matsuyama, Japan - Sep. 2016
 
 <h3> Further seminars </h3>
 
+- Talk at Anton Pannekoek Institute lunch seminar, **University of Amsterdam**, Amsterdam, The Netherlands "Different to the core: the pre-
+supernova structures of massive single and binary-stripped stars" - Mar. 2021
+- Invited informal talk in SeBa and binary evolution meeting of Dr. Toonen, **University of Birmingham**, Birmingham, 
+UK "How being single or stripped in a binary affects the death of massive stars" - Mar. 2021
 - Invited informal talk in the research group of Prof. Mandel, **Monash University**, Melbourne, Australia "Life and deaths of stars stripped in massive binaries:
 Consequences for supernovae and gravitational-wave sources"
 - Aug. 2020 (online)

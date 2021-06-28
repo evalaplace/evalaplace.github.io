@@ -16,16 +16,15 @@ header:
 * TULIPS: a Tool for Understanding the Lives, Interiors, and Physics of Stars                              
 **E. Laplace** - Submitted to Astronomy & Computing, 25 June 2021
 
-* Binary-Stripped Stars as Core-Collapse Supernovae Progenitors  
-D. Vartanyan; **E. Laplace**; M. Renzo; Y. Götberg; A. Burrows; S. E. de Mink                                           
-Accepted for publication in the Astrophysical Journal [arXiv:2104.03365](https://arxiv.org/abs/2104.03365)
-
 * Different to the core: the pre-supernova structures of massive single and binary-stripped stars  
 **E. Laplace**; S. Justham; M. Renzo; Y. Götberg; R. Farmer; D. Vartanyan & S. E. de Mink           
-    Submitted to Astronomy & Astrophysics [arXiv:2102.05036](https://arxiv.org/abs/2102.05036)
+    Submitted to Astronomy & Astrophysics; [arXiv:2102.05036](https://arxiv.org/abs/2102.05036)
 
 ******
 <h2>Articles in refereed journals</h2>
+* Binary-Stripped Stars as Core-Collapse Supernovae Progenitors  
+D. Vartanyan; **E. Laplace**; M. Renzo; Y. Götberg; A. Burrows; S. E. de Mink                                           
+Accepted for publication in the Astrophysical Journal; [arXiv:2104.03365](https://arxiv.org/abs/2104.03365)
 * Polluting the pair-instability mass gap for binary black holes through super-Eddington accretion in isolated binaries  
   L. A. C. van Son; S. E. de Mink;  F. S. Broekgaarden; M. Renzo; S. Justham; **E. Laplace**; J. Moran-Fraile; D. D. Hendriks; 
    R. Farmer  

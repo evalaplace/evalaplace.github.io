@@ -8,13 +8,18 @@ header:
  caption: "Credit: NASA, ESA, and STScI"
 ---
 
-*Last updated in June 2021.*
+*Last updated in July 2021.*
 
 ******
 <h2>Submitted articles</h2>
 
+* The cosmic carbon footprint of massive stars stripped in binary systems    
+R. Farmer; **E. Laplace**; S. E. de Mink & S. Justham   
+Submitted to the Astrophysical Journal, 13 July 2021
+
 * TULIPS: a Tool for Understanding the Lives, Interiors, and Physics of Stars                              
-**E. Laplace** - Submitted to Astronomy & Computing, 25 June 2021
+**E. Laplace**  
+Submitted to Astronomy & Computing, 25 June 2021
 
 * Different to the core: the pre-supernova structures of massive single and binary-stripped stars  
 **E. Laplace**; S. Justham; M. Renzo; Y. Götberg; R. Farmer; D. Vartanyan & S. E. de Mink           
@@ -54,12 +59,9 @@ Lukin; N. I. Shakura
 Society 452 (2): 1601-1611; [doi: 10.1093/mnras/stv1393](https://ui.adsabs.harvard.edu/link_gateway/2015MNRAS.452.1601P/doi:10.1093/mnras/stv1393)
 
 ******
-<h2>Articles in preparation</h2>
-* No Carbon left behind     
-R. Farmer; **E. Laplace** et al. - To be submitted to the Astrophysical Journal
-
-
-
+<!---
+ <h2>Articles in preparation</h2>
+--->
 A detailed list of all publications can also be found at [ADS](https://ui.adsabs.harvard.edu/public-libraries/MsPZZawhQSG7g0YRmqvmog) or [ORCID](https://orcid.org/0000-0003-1009-5691).
 
 

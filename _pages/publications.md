@@ -23,7 +23,7 @@ Submitted to Astronomy & Computing, 25 June 2021
 
 * Different to the core: the pre-supernova structures of massive single and binary-stripped stars  
 **E. Laplace**; S. Justham; M. Renzo; Y. Götberg; R. Farmer; D. Vartanyan & S. E. de Mink           
-    Submitted to Astronomy & Astrophysics; [arXiv:2102.05036](https://arxiv.org/abs/2102.05036)
+    Submitted to Astronomy & Astrophysics, 9 February 2021, [arXiv:2102.05036](https://arxiv.org/abs/2102.05036)
 
 ******
 <h2>Articles in refereed journals</h2>
@@ -49,7 +49,7 @@ Schneider; J. S. Vink
 
 * Possible regular phenomena in EXO 2030+375  
 **E. Laplace**; T. Mihara; Y. Moritani; M. Nakajima; T. Takagi; K. Makishima; A. Santangelo   
-2017, Astronomy&Astrophysics, 597,
+2017, Astronomy & Astrophysics, 597,
 A124; [doi:10.1051/0004-6361/201629373](https://ui.adsabs.harvard.edu/link_gateway/2017A&A...597A.124L/doi:10.1051/0004-6361/201629373)
 
 * On the dependence of the X-ray continuum variations with luminosity in accreting X-ray pulsars  

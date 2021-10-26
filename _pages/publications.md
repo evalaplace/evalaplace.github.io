@@ -8,33 +8,32 @@ header:
  caption: "Credit: NASA, ESA, and STScI"
 ---
 
-*Last updated in July 2021.*
+*Last updated in October 2021.*
 
 ******
-<h2>Submitted articles</h2>
-
-* The cosmic carbon footprint of massive stars stripped in binary systems    
-R. Farmer; **E. Laplace**; S. E. de Mink & S. Justham   
-Submitted to the Astrophysical Journal, 13 July 2021
-
-* TULIPS: a Tool for Understanding the Lives, Interiors, and Physics of Stars                              
-**E. Laplace**  
-Submitted to Astronomy & Computing, 25 June 2021
-
-* Different to the core: the pre-supernova structures of massive single and binary-stripped stars  
-**E. Laplace**; S. Justham; M. Renzo; Y. Götberg; R. Farmer; D. Vartanyan & S. E. de Mink           
-    Submitted to Astronomy & Astrophysics, 9 February 2021, [arXiv:2102.05036](https://arxiv.org/abs/2102.05036)
 
 ******
 <h2>Articles in refereed journals</h2>
+* TULIPS: a Tool for Understanding the Lives, Interiors, and Physics of Stars                              
+**E. Laplace**  
+Accepted for publication in Astronomy & Computing, 26 October 2021
+
+* The cosmic carbon footprint of massive stars stripped in binary systems    
+R. Farmer; **E. Laplace**; S. E. de Mink & S. Justham   
+Accepted for publication in the Astrophysical Journal, 11 October 2021, [arXiv:2110.04131](https://arxiv.org/abs/2110.04131)
+
+* Different to the core: the pre-supernova structures of massive single and binary-stripped stars  
+**E. Laplace**; S. Justham; M. Renzo; Y. Götberg; R. Farmer; D. Vartanyan & S. E. de Mink           
+    Accepted for publication in Astronomy & Astrophysics, 5 October 2021, [arXiv:2102.05036](https://arxiv.org/abs/2102.05036)
+
 * Binary-Stripped Stars as Core-Collapse Supernovae Progenitors  
 D. Vartanyan; **E. Laplace**; M. Renzo; Y. Götberg; A. Burrows; S. E. de Mink                                           
-Accepted for publication in the Astrophysical Journal; [arXiv:2104.03365](https://arxiv.org/abs/2104.03365)
+2021, Astrophysical Journal, 916, 1, id.L5; [doi:10.3847/2041-8213/ac0b42](https://ui.adsabs.harvard.edu/abs/2021ApJ...916L...5V/abstract)
+
 * Polluting the pair-instability mass gap for binary black holes through super-Eddington accretion in isolated binaries  
   L. A. C. van Son; S. E. de Mink;  F. S. Broekgaarden; M. Renzo; S. Justham; **E. Laplace**; J. Moran-Fraile; D. D. Hendriks; 
    R. Farmer  
-   2020, Astrophysical Journal; [doi:
-    10.3847/1538-4357/ab9809](https://ui.adsabs.harvard.edu/abs/2020ApJ...897..100V/abstract)
+   2020, Astrophysical Journal; [doi:10.3847/1538-4357/ab9809](https://ui.adsabs.harvard.edu/abs/2020ApJ...897..100V/abstract)
     
 *  The expansion of stripped-envelope stars: Consequences for supernovae and gravitational-wave progenitors  
 **E. Laplace**, Y. Götberg, S. E. de Mink, S. Justham, and R. Farmer  

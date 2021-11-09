@@ -15,13 +15,11 @@ Welcome to my webpage! I am a postdoctoral researcher at the
 [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/), Germany, in the Stellar Evolution Theory
 group led by [Fabian Schneider](https://www.fabian-schneider.com/).
  
-My research focuses mainly on stellar astrophysics, in particular on the evolution of binary and multiple systems, their explosions, and afterlives. I am particularly 
-interested in binary evolution, stellar explosions, compact object mergers, unexplained stellar transients, X-ray binaries, and gravitational-wave progenitors. 
+My research focuses mainly on stellar astrophysics, in particular on the evolution of binary and multiple systems, their explosions, and afterlives. I am particularly interested in the evolution of massive stars, 
+supernovae, X-ray binaries, unexplained transients, and gravitational-wave progenitors.
 For my research I mainly employ numerical simulations to compute detailed stellar models (with [MESA](http://mesa.sourceforge.net/)) and 
 supernova light-curves (with [SNEC](https://stellarcollapse.org/SNEC) 
-and [MOSFiT](https://mosfit.readthedocs.io/en/latest/#)). I have an observational background in X-ray timing data analysis from several X-ray telescopes.
-
-
+and [MOSFiT](https://mosfit.readthedocs.io/en/latest/#)). I am also experienced with analyzing X-ray timing data of X-ray binaries.
  
  
  

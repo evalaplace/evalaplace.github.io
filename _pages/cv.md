@@ -14,20 +14,18 @@ show_date: true
 Here is a link to my [CV](http://evalaplace.github.io/files/cv_eva_laplace.pdf) in pdf format 
 (last updated: February 2021).
 
-Currently, I am a postdoctoral researcher at the 
+Currently, I am a postdoctoral researcher  at the 
+[Heidelberg Institute for Theoretical Studies](https://www.h-its.org/), Germany, in the 
+group of [Fabian Schneider](https://www.fabian-schneider.com/).
  
- at the [Anton Pannekoek Institute](https://api.uva.nl/) entering my final year and interested in massive binary stars, 
-supernovae explosions, and gravitational-wave sources. I'm part of the 
-BinCosmos group led by [Selma de Mink](http://www.selmademink.com/). My co-advisor is Stephen Justham. 
+I completed my PhD at the [Anton Pannekoek Institute](https://api.uva.nl/) in the
+BinCosmos group led by [Selma de Mink](http://www.selmademink.com/), with Stephen Justham as a co-advisor. 
 
 My PhD work focused on understanding the late-time evolution, death,
 and after-life of "stripped stars", massive stars that have lost
 their outer layers due to interactions in binary systems. To 
-this end, I perform numerical simulations with [MESA](http://mesa.sourceforge.net/) and [SNEC](https://stellarcollapse.org/SNEC) 
+this end, I performed numerical simulations with [MESA](http://mesa.sourceforge.net/) and [SNEC](https://stellarcollapse.org/SNEC) 
 and [MOSFiT](https://mosfit.readthedocs.io/en/latest/#). 
-My research interests include the evolution of massive stars, 
-supernovae, X-ray binaries, unexplained transients, and 
- gravitational-wave progenitors. 
  
  I'm also interested in developing computing tools for astrophysics. Tools I have developed or am currently developing include a real-time monitor of the activity of 
  Be X-ray binaries, and TULIPS, the Tool for Understanding the Lives, Interiors, and Physics of Stars. Learn more about this in 

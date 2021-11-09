@@ -14,13 +14,21 @@ video:
 
 {% include figure image_path="https://evalaplace.github.io/images/Tulips_white.png" alt="Logo design: A. Faber" %}
 
+##
 TULIPS helps visualize the physics of how stars evolve over time in an intuitive manner. Instead of complex diagrams, 
-stars are represented as circles that change in size and color over time. I have been developing TULIPS since 2018 and 
-plan to publish it as open-source and free software in the first half of 2021. 
+stars and their interior properties are represented as circles that change in size and color over time. 
+
+You can find the TULIPS code at [this link](https://bitbucket.org/elaplace/tulips/src/master/) and documentation and tutorials [here](https://astro-tulips.readthedocs.io).
 
 
-With the Outreach award of the Royal Holland Society of Sciences and Humanities, I am planning to further develop TULIPS 
-and to make tutorials and videos of TULIPS available. Stay tuned! 
+
+## History
+I have been developing TULIPS since 2018 and it was published in 2021.
+With the outreach award of the Royal Holland Society of Sciences and Humanities sponsored by the de Zeeuw-van Disshoeck fund (press releases: 
+[original in Dutch](https://www.astronomie.nl/nieuws/eva-laplace-wint-communicatieprijs-voor-software-die-levensloop-van-ster-toont-2542) or 
+[English translation](https://www.astronomie.nl/eva-laplace-wins-communication-prize-for-software-that-shows-life-cycle-of-stars-92))
+the project could be developed further, and documentation and tutorials could be included.
+
 
 {% include figure image_path="https://evalaplace.github.io/images/test_single_M10.5_movie.gif" alt="Example TULIPS movie"
  caption="Example TULIPS movie showing how a 10 solar mass star 

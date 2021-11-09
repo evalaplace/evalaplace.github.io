@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eva Laplace"
 title_separator          : "-"
 name                     : &name "Eva Laplace"
-description              : &description "PhD candidate in astrophysics at the University of Amsterdam"
+description              : &description "Astrophysicist at HITS"
 url                      : https://evalaplace.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "evalaplace/evalaplace.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Eva Laplace"
   avatar           : "Eva_Laplace.JPG"
   bio              : "PhD candidate in astrophysics at the Anton Pannekoek Institute"
-  location         : "Amsterdam, NL"
+  location         : "Heidelberg, Germany"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "e.c.laplace@uva.nl"
+  email            : "eva.laplace@h-its.org"
   researchgate     :
   uri              :
   bitbucket        :

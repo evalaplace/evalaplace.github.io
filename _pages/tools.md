@@ -20,18 +20,12 @@ feature_row:
     url: "#monitor"
 ---
 
-<span style="color:red">**Update November 2020**</span>
-
-I have just been awarded the 5000 Euro **ET outreach award of the Royal 
-Holland Society of Sciences and Humanities** through the de Zeeuw-van Disshoeck fund
-for developing the TULIPS project further. For more information, see the press release: 
-[original in Dutch](https://www.astronomie.nl/nieuws/eva-laplace-wint-communicatieprijs-voor-software-die-levensloop-van-ster-toont-2542) or 
-[English translation](https://www.astronomie.nl/eva-laplace-wins-communication-prize-for-software-that-shows-life-cycle-of-stars-92)
-
 **TULIPS**
 
 TULIPS, the Tool for Understanding the Lives, Interiors, and Physics of Stars, helps visualize the physics of how stars evolve over time in an intuitive manner. 
-Instead of complex diagrams, stars are represented as circles that change in size and color over time. 
+Instead of complex diagrams, stars are represented as circles that change in size and color over time.
+ I developed this tool during my PhD and was awarded the ET outreach award of the Royal 
+Holland Society of Sciences and Humanities to develop it further. The code is still actively developed and maintained today.
 
 [Learn more about TULIPS](/tools/tulips). 
 

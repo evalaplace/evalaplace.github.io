@@ -15,16 +15,12 @@ Welcome to my webpage! I am a postdoctoral researcher at the
 [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/), Germany, in the Stellar Evolution Theory
 group led by [Fabian Schneider](https://www.fabian-schneider.com/).
  
-My research focuses mainly on stellar astrophysics, in particular on the life, explosion, and afterlife of stars 
-that are part of massive binary systems. I am also interested in high energy astrophysics and in the development of computing tools for astrophysics.
-For more information about my research, please check the [publications](/publications/) section.
+My research focuses mainly on stellar astrophysics, in particular on the evolution of binary and multiple systems, their explosions, and afterlives. I am particularly 
+interested in binary evolution, stellar explosions, compact object mergers, unexplained stellar transients, X-ray binaries, and gravitational-wave progenitors. 
+For my research I mainly employ numerical simulations to compute detailed stellar models (with [MESA](http://mesa.sourceforge.net/)) and 
+supernova light-curves (with [SNEC](https://stellarcollapse.org/SNEC) 
+and [MOSFiT](https://mosfit.readthedocs.io/en/latest/#)). I also have a background in X-ray timing analysis with the RXTE, MAXI, Swift, and Fermi telescopes.
 
-I'm also interested in developing computing tools for astrophysics. Learn more about this in 
-the [computing tools](/tools/) section.
-
-
-
-Feel free to [contact](mailto:e.c.laplace@uva.nl) me.
 
  
  

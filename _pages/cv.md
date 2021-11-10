@@ -14,6 +14,8 @@ show_date: true
 Here is a link to my [CV](http://evalaplace.github.io/files/cv_eva_laplace.pdf) in pdf format 
 (last updated: February 2021).
 
+# Summary 
+
 Currently, I am a postdoctoral researcher  at the 
 [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/), Germany, in the 
 group of [Fabian Schneider](https://www.fabian-schneider.com/).
@@ -24,11 +26,9 @@ BinCosmos group led by [Selma de Mink](http://www.selmademink.com/), with Stephe
 My PhD work focused on understanding the late-time evolution, death,
 and after-life of "stripped stars", massive stars that have lost
 their outer layers due to interactions in binary systems. To 
-this end, I performed numerical simulations with [MESA](http://mesa.sourceforge.net/) and [SNEC](https://stellarcollapse.org/SNEC) 
-and [MOSFiT](https://mosfit.readthedocs.io/en/latest/#). 
- 
- I'm also interested in developing computing tools for astrophysics. Tools I have developed or am currently developing include a real-time monitor of the activity of 
- Be X-ray binaries, and TULIPS, the Tool for Understanding the Lives, Interiors, and Physics of Stars. Learn more about this in 
+this end, I performed numerical simulations with [MESA](http://mesa.sourceforge.net/) and [SNEC](https://stellarcollapse.org/SNEC).
+ I am also interested in developing computing tools for astrophysics. Tools I have developed or am currently developing include a real-time monitor of the activity of 
+ Be X-ray binaries, and TULIPS, the Tool for Understanding the Lives, Interiors, and Physics of Stars. Learn more about these in 
  the [computing tools](/tools/) section.
 
  
@@ -43,9 +43,9 @@ Science degree in physics at the
 
 For my research projects, I had the opportunity to work at the [National Astronomical Observatory of Japan](https://www.nao.ac.jp/en/) 
 in Tokyo, Japan (2019), at the [Institut für Astronomie und Astrophysik](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-astrophysik/institut/astronomie/forschung/prof-santangelo-abteilung-hochenergieastrophysik/)
-in Tübingen, Germany (2013-2017), at [RIKEN](https://www.riken.jp/en/research/labs/rnc/high_ener_astro/), near Tokyo, Japan (2016),
- and at the [European Space Astronomy Centre (ESAC)](https://www.esa.int/About_Us/ESAC) in Madrid, Spain (Summers 2014 and 2015). More details can be found in the [CV](/cv/) section.
-
+in Tübingen, Germany (2013-2017), 
+at [RIKEN](https://www.riken.jp/en/research/labs/rnc/high_ener_astro/), near Tokyo, Japan (2016),
+ and at the [European Space Astronomy Centre (ESAC)](https://www.esa.int/About_Us/ESAC) in Madrid, Spain (Summers 2014 and 2015).
 
 {% include base_path %}
 

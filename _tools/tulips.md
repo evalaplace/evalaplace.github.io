@@ -21,19 +21,14 @@ stars and their interior properties are represented as circles that change in si
 You can find the TULIPS code at [this link](https://bitbucket.org/elaplace/tulips/src/master/) and documentation and tutorials [here](https://astro-tulips.readthedocs.io).
 
 ## Example TULIPS Videos
-<div class="output_area rendered_html docutils container">
-<video width="700" height="600" controls>
-  <source src="https://evalaplace.github.io/images/fig3_perceived_color.mp4" type="video/mp4">
-</video>
-</div>
 
 {% include figure image_path="https://evalaplace.github.io/images/test_single_M10.5_movie.gif" alt="Example TULIPS movie"
- caption="Example TULIPS movie showing how a 10 solar mass star 
+ width="700" height="600" caption="Example TULIPS movie showing how a 10 solar mass star 
 changes in size and in apparent color (as perceived by the human eye) over the course of its life. In the lower 
 left corner, you can see a classical Hertzsprung-Russell diagram"%}{: .align-center}
 
 {% include figure image_path="https://evalaplace.github.io/images/test_single_M10.5_interior_movie.gif" 
-alt="Example TULIPS interior movie" caption="Example TULIPS movie showing how a 10 solar mass star 
+alt="Example TULIPS interior movie" width="700" height="600" caption="Example TULIPS movie showing how a 10 solar mass star 
 loses and generate energy over the course of its life. The radius of the circle is proportional to the mass of the star. 
 Redder colors indicate a very high energy generation (for example through nuclear fusion) and more purple colors 
 indicate heavy energy losses (for example through neutrino emission). In the lower left corner, you can see a classical 

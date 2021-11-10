@@ -21,9 +21,11 @@ stars and their interior properties are represented as circles that change in si
 You can find the TULIPS code at [this link](https://bitbucket.org/elaplace/tulips/src/master/) and documentation and tutorials [here](https://astro-tulips.readthedocs.io).
 
 ## Example TULIPS Videos
-<video width="320" height="240" controls>
-  <source src=""https://evalaplace.github.io/images/fig3_perceived_color.mp4"" type="video/mp4">
+<div class="output_area rendered_html docutils container">
+<video width="700" height="600" controls>
+  <source src="https://evalaplace.github.io/images/fig3_perceived_color.mp4" type="video/mp4">
 </video>
+</div>
 
 {% include figure image_path="https://evalaplace.github.io/images/test_single_M10.5_movie.gif" alt="Example TULIPS movie"
  caption="Example TULIPS movie showing how a 10 solar mass star 

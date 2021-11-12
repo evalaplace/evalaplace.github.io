@@ -8,7 +8,7 @@ header:
  caption: "Credit: NASA, ESA, and STScI"
 ---
 
-*Last updated in October 2021.*
+*Last updated in November 2021.*
 
 ******
 
@@ -16,7 +16,7 @@ header:
 <h2>Articles in refereed journals</h2>
 * TULIPS: a Tool for Understanding the Lives, Interiors, and Physics of Stars                              
 **E. Laplace**  
-Accepted for publication in Astronomy & Computing, 26 October 2021
+Accepted for publication in Astronomy & Computing, 26 October 2021 [arXiv:2111.05346](https://arxiv.org/abs/2111.05346)
 
 * The cosmic carbon footprint of massive stars stripped in binary systems    
 R. Farmer; **E. Laplace**; S. E. de Mink & S. Justham   

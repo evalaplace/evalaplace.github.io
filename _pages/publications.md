@@ -8,7 +8,7 @@ header:
  caption: "Credit: NASA, ESA, and STScI"
 ---
 
-*Last updated in November 2021.*
+*Last updated in December 2021.*
 
 ******
 
@@ -16,7 +16,7 @@ header:
 <h2>Articles in refereed journals</h2>
 * TULIPS: a Tool for Understanding the Lives, Interiors, and Physics of Stars                              
 **E. Laplace**  
-Accepted for publication in Astronomy & Computing, 26 October 2021 [doi:10.1016/j.ascom.2021.100516](https://doi.org/10.1016/j.ascom.2021.100516)
+2022, Astronomy & Computing, 38, id. 100516 [doi:10.1016/j.ascom.2021.100516](https://doi.org/10.1016/j.ascom.2021.100516)
 
 * The cosmic carbon footprint of massive stars stripped in binary systems    
 R. Farmer; **E. Laplace**; S. E. de Mink & S. Justham   
@@ -24,7 +24,8 @@ Accepted for publication in the Astrophysical Journal, 11 October 2021, [arXiv:2
 
 * Different to the core: the pre-supernova structures of massive single and binary-stripped stars  
 **E. Laplace**; S. Justham; M. Renzo; Y. Götberg; R. Farmer; D. Vartanyan & S. E. de Mink           
-    Accepted for publication in Astronomy & Astrophysics, 5 October 2021, [arXiv:2102.05036](https://arxiv.org/abs/2102.05036)
+2021, Astronomy & Astrophysics, 656, A58; [doi:
+    10.1051/0004-6361/202140506](https://ui.adsabs.harvard.edu/abs/2021A%26A...656A..58L/abstract)
 
 * Binary-Stripped Stars as Core-Collapse Supernovae Progenitors  
 D. Vartanyan; **E. Laplace**; M. Renzo; Y. Götberg; A. Burrows; S. E. de Mink                                           

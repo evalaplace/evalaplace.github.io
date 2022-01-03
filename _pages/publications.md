@@ -20,7 +20,7 @@ header:
 
 * The cosmic carbon footprint of massive stars stripped in binary systems    
 R. Farmer; **E. Laplace**; S. E. de Mink & S. Justham   
-Accepted for publication in the Astrophysical Journal, 11 October 2021, [arXiv:2110.04131](https://arxiv.org/abs/2110.04131)
+2021, Astrophysical Journal, 923, 2, id.214, [doi:10.3847/1538-4357/ac2f44](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..214F/abstract)
 
 * Different to the core: the pre-supernova structures of massive single and binary-stripped stars  
 **E. Laplace**; S. Justham; M. Renzo; Y. Götberg; R. Farmer; D. Vartanyan & S. E. de Mink           

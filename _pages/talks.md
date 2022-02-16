@@ -61,7 +61,7 @@ Consequences for supernovae and gravitational-wave sources" - May
 Be X-ray binary EXO 2030+375" Ehime University, Matsuyama, Japan - Sep. 2016
 
 <h3> Further seminars </h3>
-
+- Talk at the informal seminar of the **European Southern Observatory**, "TULIPS: a Tool for Understanding the Lives, Interiors, and Physics of Stars", Garching, Germany - Jan. 2022
 - Talk at Anton Pannekoek Institute lunch seminar, **University of Amsterdam**, Amsterdam, The Netherlands "Different to the core: the pre-
 supernova structures of massive single and binary-stripped stars" - Mar. 2021
 - Invited informal talk in SeBa and binary evolution meeting of Dr. Toonen, **University of Birmingham**, Birmingham, 

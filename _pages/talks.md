@@ -8,7 +8,7 @@ header:
     caption: "Credit:NASA, ESA, and The Hubble Heritage Team (STScI/AURA)"
 ---
 
-*Last updated in Dec 2022.*
+*Last updated in December 2022.*
 
 ******
 

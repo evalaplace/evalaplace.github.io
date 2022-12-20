@@ -8,7 +8,7 @@ header:
     caption: "Credit:NASA, ESA, and The Hubble Heritage Team (STScI/AURA)"
 ---
 
-*Last updated in June 2021.*
+*Last updated in Dec 2022.*
 
 ******
 
@@ -16,6 +16,9 @@ header:
 
 <h3> Invited seminars</h3>
 
+- Invited talk at the virtual **FORTH** seminar, Heraklion, Greece, "How binary evolution affects the late evolution, death, and afterlife of massive stars", 14 dec 2022 [Link to the talk](https://www.youtube.com/watch?v=H7EphNqhUlQ)
+- Invited talk at the virtual astrophysics seminar, **University of Sheffield**, United Kingdom, "Late evolution, death, and afterlife of stars stripped in binaries" 16 Feb 2022
+- Invited talk at the virtual award ceremony of the Royal Holland Society of Sciences and Humanities, Haarlem, The Netherlands, "TULIPS: a Tool for Understanding the Lives, Interiors, and Physics of Stars" - 29 Nov 2021
 - Invited talk at the Stellar Astrophysics seminar, **Max Planck Institute for Astrophysics**, Garching, Germany "How being single or 
 stripped in a binary systems affects the deaths of massive stars" - Apr. 2021 (online)
 - Invited talk at the SPI-MAX Stellar Astrophysics seminar, **University of Oxford**, Oxford, UK "How being single or 
@@ -34,14 +37,15 @@ Consequences for supernovae and gravitational-wave sources" - Sep 2019.
 
 <h3> Contributed talks at conferences and international meetings</h3>
 
-- Talk at conference (postponed): **IAU symposium Massive Stars Near and Far** - Ballyconnell, Ireland 
-"Life and deaths of stars stripped in massive binaries:
-Consequences for supernovae and gravitational-wave sources"
-(initially May 2020, awarded talk postponed to in-person meeting in May 2022)
+- Talk at the XVI. Würzburg Workshop on stellar astrophysics, HITS Heidelberg, Germany, "Binary progenitors of supernovae" - 13 Dec 2022
+- Talk at the meeting of the HITS scientific advisory board, HITS Heidelberg, Germany "Which stars form black holes?" - 2 Dec 2022
+- Talk at the VFTS collaboration annual meeting, HITS Heidelberg, Germany "Black hole formation and the missing red supergiant problem" - 21 Jun 2022
+- Talk at workshop "Bringing Stellar Evolution and Feedback Together", Lorentz Center, Leiden "The effects of binary evolution on supernovae properties" - 26 Apr 2022
+- Talk at seminar: Scientific Seminar, HITS Heidelberg, Germany "TULIPS: a Tool for Understanding the Lives, Interiors, and Physics of Stars" - 7 Feb 2022
 - Talk at conference : **IAU online preview of Massive Stars Near and Far symposium** - Ballyconnell, Ireland 
 "Life and deaths of stars stripped in massive binaries:
 Consequences for supernovae and gravitational-wave sources" - May 2021 (online)
-- Talk at the **VFTS collaboration** annual meeting "How being single or stripped in a binary systems affects 
+- Talk at the VFTS collaboration annual meeting "How being single or stripped in a binary systems affects 
 the deaths of massive stars"- Oct. 2020 (online).
 - Talk at conference: **German astronomical society meeting** "How being single or stripped in a binary systems 
 affects the deaths of massive stars"- Sep. 2020 (online)
@@ -61,6 +65,9 @@ Consequences for supernovae and gravitational-wave sources" - May
 Be X-ray binary EXO 2030+375" Ehime University, Matsuyama, Japan - Sep. 2016
 
 <h3> Further seminars </h3>
+
+- Webinar in the "How to: python!" series of the American Association of Variable Stars Observers (AAVSO). "How to [Python! Visualizing MESA models with TULIPS]" - 3 Dec 2022
+- Talk at the virtual meeting of the stellar triples group, University of Amsterdam, The Netherlands "Late evolution, death, and afterlife of stars stripped in binaries" - 14 Mar 2022
 - Talk at the informal seminar of the **European Southern Observatory**, "TULIPS: a Tool for Understanding the Lives, Interiors, and Physics of Stars", Garching, Germany - Jan. 2022
 - Talk at Anton Pannekoek Institute lunch seminar, **University of Amsterdam**, Amsterdam, The Netherlands "Different to the core: the pre-
 supernova structures of massive single and binary-stripped stars" - Mar. 2021
@@ -82,6 +89,7 @@ Be X-ray binary EXO 2030+375" - Mar. 2016
 
 <h2> Posters </h2>
 
+- IAU361: Massive Stars Near and Far, Ireland (poster: Black hole formation in single and binary stars) - May 2022
 - Yukawa International worskhop Neutron stars and black holes with gravitational waves at the Yukawa
 Institute for Theoretical Physics, Kyoto, Japan (poster: The size of stars stripped in massive binaries
 and its impact on gravitational wave events) – Oct. 2019

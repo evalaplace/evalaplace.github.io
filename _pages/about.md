@@ -17,9 +17,6 @@ group led by [Fabian Schneider](https://www.fabian-schneider.com/).
  
 My research focuses mainly on stellar astrophysics, in particular on the evolution of binary and multiple systems, their explosions, and afterlives. I am particularly interested in the evolution of massive stars, 
 supernovae, X-ray binaries, unexplained transients, and gravitational-wave progenitors.
-For my research I mainly employ numerical simulations to compute detailed stellar models (with [MESA](http://mesa.sourceforge.net/)) and 
-supernova light-curves (with [SNEC](https://stellarcollapse.org/SNEC) 
-and [MOSFiT](https://mosfit.readthedocs.io/en/latest/#)).
  
  
  

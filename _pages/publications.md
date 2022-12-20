@@ -12,7 +12,6 @@ header:
 
 ******
 
-******
 <h2>Articles in refereed journals</h2>
 * TULIPS: a Tool for Understanding the Lives, Interiors, and Physics of Stars                              
 **E. Laplace**  

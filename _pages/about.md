@@ -19,8 +19,7 @@ My research focuses mainly on stellar astrophysics, in particular on the evoluti
 supernovae, X-ray binaries, unexplained transients, and gravitational-wave progenitors.
 For my research I mainly employ numerical simulations to compute detailed stellar models (with [MESA](http://mesa.sourceforge.net/)) and 
 supernova light-curves (with [SNEC](https://stellarcollapse.org/SNEC) 
-and [MOSFiT](https://mosfit.readthedocs.io/en/latest/#)). I am also experienced with analyzing X-ray timing data of X-ray binaries.
- 
+and [MOSFiT](https://mosfit.readthedocs.io/en/latest/#)).
  
  
  

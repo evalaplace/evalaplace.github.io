@@ -15,15 +15,18 @@ show_date: true
 
 Currently, I am a postdoctoral researcher  at the 
 [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/), Germany, in the 
-group of [Fabian Schneider](https://www.fabian-schneider.com/). My roles include conducting research on the physics of massive single and binary stars and the formation
-of black holes and supernovae, co-advising and mentoring, organizing scientific meetings, and participating in outreach activities, including leading the project
-[Habitable](https://www.hochschulwettbewerb.net/2023/heidelberg/).
+group of [Fabian Schneider](https://www.fabian-schneider.com/). My activities include conducting research on the physics of massive single and binary stars and the formation
+of black holes and supernovae, co-advising and mentoring students, organizing scientific meetings, and participating in outreach activities, including leading the project
+[Habitable](https://www.hochschulwettbewerb.net/2023/heidelberg/). 
+I am committed to promoting an inclusive, diverse, and safe work environment and more sustainable practices in the times of climate crisis. 
+Outside of work, I enjoy sports, in particular running and cycling, spending time with friends, playing with my niblings,
+and noticing the natural beauty of this world.
  
 I completed my PhD at the [Anton Pannekoek Institute](https://api.uva.nl/), University of Amsterdam, The Netherlands, in the
 BinCosmos group led by [Selma de Mink](http://www.selmademink.com/), with Stephen Justham as a co-advisor. 
 
 My PhD work focused on understanding the late-time evolution, death,
-and after-life of "stripped stars", massive stars that have lost
+and after-life of "binary-stripped stars", massive stars that have lost
 their outer layers due to interactions in binary systems. To 
 this end, I performed numerical simulations with [MESA](http://mesa.sourceforge.net/) and [SNEC](https://stellarcollapse.org/SNEC).
  I am also interested in developing computing tools for astrophysics. Tools I have developed or am currently developing include a real-time monitor of the activity of 

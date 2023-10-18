@@ -11,7 +11,7 @@ header:
 *Last updated in October 2023.*
 
 ******
-A detailed up-to-date list of all publications can be found at [ADS](https://ui.adsabs.harvard.edu/public-libraries/MsPZZawhQSG7g0YRmqvmog) or [ORCID](https://orcid.org/0000-0003-1009-5691).
+A detailed, up-to-date list of all publications can be found at [ADS](https://ui.adsabs.harvard.edu/public-libraries/MsPZZawhQSG7g0YRmqvmog) or [ORCID](https://orcid.org/0000-0003-1009-5691).
 
 
 <h2>Articles in refereed journals</h2>
@@ -28,7 +28,7 @@ R. Farmer, **E. Laplace**, J.-Z. Ma, S. E. de Mink, and S. Justham
 
 * _Late evolution, death, and afterlife of stars stripped in binaries_        
 **E. Laplace**         
-PhD thesis, University of Amsterdam, ISBN 9789464193886, [available on UvA-DARE](https://hdl.handle.net/11245.1/06fd9a37-2313-4cde-933d-35679fb319d8)
+2022, PhD thesis, University of Amsterdam, ISBN 9789464193886, [available on UvA-DARE](https://hdl.handle.net/11245.1/06fd9a37-2313-4cde-933d-35679fb319d8)
 
 * _The cosmic carbon footprint of massive stars stripped in binary systems_    
 R. Farmer; **E. Laplace**; S. E. de Mink & S. Justham   
@@ -52,10 +52,9 @@ D. Vartanyan; **E. Laplace**; M. Renzo; Y. Götberg; A. Burrows; S. E. de Mink
 2017, Astronomy & Astrophysics, 597,
 A124; [doi:10.1051/0004-6361/201629373](https://ui.adsabs.harvard.edu/link_gateway/2017A&A...597A.124L/doi:10.1051/0004-6361/201629373)
 
+<h3> Co-authored publications</h3>
 
-<h3> Other refereed publications</h3>
-
-* _Bimodal Black Hole_ Mass Distribution and Chirp Masses of Binary Black Hole Mergers_  
+* _Bimodal Black Hole Mass Distribution and Chirp Masses of Binary Black Hole Mergers_  
 F.R.N. Schneider, Ph. Podsiadlowski, and **E. Laplace**      
 2023, Astrophysical Journal Letters, 950, 2, id.L9; [doi:10.3847/2041-8213/acd77a](https://doi.org/10.3847/2041-8213/acd77a)
 

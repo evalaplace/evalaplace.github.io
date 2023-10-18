@@ -11,16 +11,15 @@ redirect_from:
 show_date: true
 ---
 
-Here is a link to my [CV](http://evalaplace.github.io/files/cv_eva_laplace.pdf) in pdf format 
-(last updated: February 2021).
-
 # Summary 
 
 Currently, I am a postdoctoral researcher  at the 
 [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/), Germany, in the 
-group of [Fabian Schneider](https://www.fabian-schneider.com/).
+group of [Fabian Schneider](https://www.fabian-schneider.com/). My roles include conducting research on the physics of massive single and binary stars and the formation
+of black holes and supernovae, co-advising and mentoring, organizing scientific meetings, and participating in outreach activities, including leading the project
+[Habitable](https://www.hochschulwettbewerb.net/2023/heidelberg/).
  
-I completed my PhD at the [Anton Pannekoek Institute](https://api.uva.nl/) in the
+I completed my PhD at the [Anton Pannekoek Institute](https://api.uva.nl/), University of Amsterdam, The Netherlands, in the
 BinCosmos group led by [Selma de Mink](http://www.selmademink.com/), with Stephen Justham as a co-advisor. 
 
 My PhD work focused on understanding the late-time evolution, death,
@@ -47,10 +46,9 @@ in Tübingen, Germany (2013-2017),
 at [RIKEN](https://www.riken.jp/en/research/labs/rnc/high_ener_astro/), near Tokyo, Japan (2016),
  and at the [European Space Astronomy Centre (ESAC)](https://www.esa.int/About_Us/ESAC) in Madrid, Spain (Summers 2014 and 2015).
 
-{% include base_path %}
 
 <!--- 
-
+{% include base_path %}
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012

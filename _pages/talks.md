@@ -8,14 +8,21 @@ header:
     caption: "Credit:NASA, ESA, and The Hubble Heritage Team (STScI/AURA)"
 ---
 
-*Last updated in December 2022.*
+*Last updated in October 2023.*
 
 ******
 
 <h2>Talks</h2>
 
-<h3> Invited seminars</h3>
+<h3> Invited talks at seminars and conferences</h3>
 
+- Invited talk at the Hengstberger Symposium, Heidelberg University, Heidelberg, DE – Sep. 2023
+- Invited talk at the Kavli summer program, Max Planck Institute for Astrophysics, Garching, DE – Aug. 2023
+- Invited **review talk**, Lorentz Center workshop The Renaissance of Stellar Black-Hole Detections in The Local Group, 
+Leiden, NL "Stellar evolution theory: which stars form black holes?" – Jun. 2023 
+- Invited Astrophysics colloquium, Radboud University, Nijmegen, NL – Jun. 2023
+- Invited talk at the Astrophysics colloquium, Instituto de Astrofísica de Canarias, Tenerife, ES – Apr. 2023
+- Invited talk at the High Energy Astrophysics meeting of the American Astronomical Society, Hawaii, US – Feb. 2023
 - Invited talk at the virtual **FORTH** seminar, Heraklion, Greece, "How binary evolution affects the late evolution, death, and afterlife of massive stars", 14 dec 2022 [Link to the talk](https://www.youtube.com/watch?v=H7EphNqhUlQ)
 - Invited talk at the virtual astrophysics seminar, **University of Sheffield**, United Kingdom, "Late evolution, death, and afterlife of stars stripped in binaries" 16 Feb 2022
 - Invited talk at the virtual award ceremony of the Royal Holland Society of Sciences and Humanities, Haarlem, The Netherlands, "TULIPS: a Tool for Understanding the Lives, Interiors, and Physics of Stars" - 29 Nov 2021
@@ -64,7 +71,7 @@ Consequences for supernovae and gravitational-wave sources" - May
 - Talk at conference: Fall meeting of the **Astronomical Society of Japan**, "A long-term periodicity in the 
 Be X-ray binary EXO 2030+375" Ehime University, Matsuyama, Japan - Sep. 2016
 
-<h3> Further seminars </h3>
+<h3> Further selected seminars </h3>
 
 - Webinar in the "How to: python!" series of the American Association of Variable Stars Observers (AAVSO). "How to [Python! Visualizing MESA models with TULIPS]" - 3 Dec 2022
 - Talk at the virtual meeting of the stellar triples group, University of Amsterdam, The Netherlands "Late evolution, death, and afterlife of stars stripped in binaries" - 14 Mar 2022

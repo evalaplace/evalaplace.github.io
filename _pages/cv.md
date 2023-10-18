@@ -19,8 +19,7 @@ group of [Fabian Schneider](https://www.fabian-schneider.com/). My activities in
 of black holes and supernovae, co-advising and mentoring students, organizing scientific meetings, and participating in outreach activities, including leading the project
 [Habitable](https://www.hochschulwettbewerb.net/2023/heidelberg/). 
 I am committed to promoting an inclusive, diverse, and safe work environment and more sustainable practices in the times of climate crisis. 
-Outside of work, I enjoy sports, in particular running and cycling, spending time with friends, playing with my niblings,
-and noticing the natural beauty of this world.
+Outside of work, I enjoy sports, in particular running and cycling, spending time with friends and family, and noticing the natural beauty of this world.
  
 I completed my PhD at the [Anton Pannekoek Institute](https://api.uva.nl/), University of Amsterdam, The Netherlands, in the
 BinCosmos group led by [Selma de Mink](http://www.selmademink.com/), with Stephen Justham as a co-advisor. 

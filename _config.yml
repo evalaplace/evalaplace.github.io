@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Eva Laplace"
   avatar           : "Eva_Laplace.JPG"
-  bio              : "Astrophysicist at HITS"
-  location         : "Heidelberg, Germany"
+  bio              : "Astrophysicist at KU Leuven and the University of Amsterdam"
+  location         : "Leuven (Belgium) and Amsterdam (Netherlands)"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "eva.laplace@h-its.org"
+  email            : "eva.laplace@kuleuven.be"
   researchgate     :
   uri              :
   bitbucket        :
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
+#  publications:
+#    output: true
+#    permalink: /:collection/:path/
 #  research:
 #    output: true
 #    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
   tools:
     output: true
     permalink: /:collection/:path/
@@ -257,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Amsterdam # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

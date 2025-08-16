@@ -42,9 +42,13 @@ in Tübingen, Germany (2013-2017),
 at [RIKEN](https://www.riken.jp/en/research/labs/rnc/high_ener_astro/), near Tokyo, Japan (2016),
  and at the [European Space Astronomy Centre (ESAC)](https://www.esa.int/About_Us/ESAC) in Madrid, Spain (Summers 2014 and 2015).
 
-I am also interested in developing computing tools for astrophysics. Tools I have developed or am currently developing include a real-time monitor of the activity of Be X-ray binaries, and TULIPS, the Tool for Understanding the Lives, Interiors, and Physics of Stars. Learn more about these in 
- the [computing tools](/tools/) section.
+# More about me 
+
+Another interest of mine is to develop computing and visualization tools for astrophysics. Tools I have developed so far include a real-time monitor of the activity of Be X-ray binaries, and TULIPS, the Tool for Understanding the Lives, Interiors, and Physics of Stars. Learn more about these in 
+ the [computing tools](/tools/) section. I'm passionate about science communication and my efforts have been recognized 
+by multiple outreach awards, including the ET Outreach award of the Royal Holland Society of Sciences and Humanities for 
+[TULIPS](https://evalaplace.github.io/tools/tulips/) (2021) and the Hochschulwettbewerb, funded by the German Ministry of Education and Research, for [Habitable](https://www.hochschulwettbewerb.net/2023/heidelberg/) (2024).
 
 Originally, I come from Strasbourg (France). I'm European, with French and German nationalities.
-I am committed to promoting an inclusive, diverse, and safe work environment and more sustainable practices in the times of climate crisis. 
+I'm committed to promoting an inclusive, diverse, and safe work environment and more sustainable practices in the times of climate crisis. 
 Outside of work, I enjoy sports, in particular running and cycling, spending time with friends and family, and noticing the natural beauty of this world.

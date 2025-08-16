@@ -8,7 +8,7 @@ header:
  caption: "Credit: NASA, ESA, and STScI"
 ---
 
-A detailed, up-to-date list of all publications can be found at [ORCID](https://orcid.org/0000-0003-1009-5691) and at [ADS](https://ui.adsabs.harvard.edu/public-libraries/MsPZZawhQSG7g0YRmqvmog).
+A detailed, up-to-date list of all publications can be found at [ORCID](https://orcid.org/0000-0003-1009-5691) and at [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22Laplace%2C%20E.%22%20property%3Arefereed&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 
 <h2>A selection of articles </h2>

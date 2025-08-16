@@ -13,7 +13,7 @@ header:
 
 
 
-Welcome to my webpage! I'm an assistant professor at the KU Leuven (Belgium) and Veni fellow at the University of Amsterdam (Netherlands). 
+Welcome to my webpage! I'm an assistant professor at the KU Leuven (Belgium) and a Veni fellow at the University of Amsterdam (Netherlands). 
 
 At the [Institute of Astronomy](https://fys.kuleuven.be/ster) of KU Leuven, I lead a research team on themes related to stellar astrophysics, the evolution 
 of massive binary and multiple systems, their explosions, pulsations, and afterlives. I am the PI of the FWO-Odysseus grant *StarHearts* and of an NWO-Veni grant, 

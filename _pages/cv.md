@@ -27,8 +27,6 @@ BinCosmos group led by [Selma de Mink](http://www.selmademink.com/), with Stephe
 and after-life of "binary-stripped stars", massive stars that have lost
 their outer layers due to interactions in binary systems. To 
 this end, I performed numerical simulations with [MESA](http://mesa.sourceforge.net/) and [SNEC](https://stellarcollapse.org/SNEC).
-I am also interested in developing computing tools for astrophysics. Tools I have developed or am currently developing include a real-time monitor of the activity of Be X-ray binaries, and TULIPS, the Tool for Understanding the Lives, Interiors, and Physics of Stars. Learn more about these in 
- the [computing tools](/tools/) section.
 
 Before I began my PhD, I 
 completed a Bachelor of Science and then a Master of 
@@ -44,6 +42,9 @@ in Tokyo, Japan (2019), at the [Institut für Astronomie und Astrophysik](https:
 in Tübingen, Germany (2013-2017), 
 at [RIKEN](https://www.riken.jp/en/research/labs/rnc/high_ener_astro/), near Tokyo, Japan (2016),
  and at the [European Space Astronomy Centre (ESAC)](https://www.esa.int/About_Us/ESAC) in Madrid, Spain (Summers 2014 and 2015).
+
+I am also interested in developing computing tools for astrophysics. Tools I have developed or am currently developing include a real-time monitor of the activity of Be X-ray binaries, and TULIPS, the Tool for Understanding the Lives, Interiors, and Physics of Stars. Learn more about these in 
+ the [computing tools](/tools/) section.
 
 Originally, I come from Strasbourg (France). I'm European, with French and German nationalities.
 I am committed to promoting an inclusive, diverse, and safe work environment and more sustainable practices in the times of climate crisis. 

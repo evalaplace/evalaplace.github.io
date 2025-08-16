@@ -19,7 +19,7 @@ At the [Institute of Astronomy](https://fys.kuleuven.be/ster) of KU Leuven, I le
 Our research focus is the study of massive binary and multiple systems, their evolution, explosions, pulsations, and afterlives. I'm the PI of an FWO-Odysseus grant and of an NWO-Veni grant. 
 In addition, I'm a member of the [Anton Pannekoek Institute](https://api.uva.nl/) in Amsterdam, and of the [Leuven Gravity Institute](https://www.kuleuven.be/lgi).
 
-My research is of theoretical nature, using numerical simulations to study the Universe.
+My research is of theoretical nature, mostly using numerical simulations to study the Universe.
 
 
 

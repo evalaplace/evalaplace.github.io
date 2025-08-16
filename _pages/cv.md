@@ -16,8 +16,6 @@ show_date: true
 In 2025, I started a new research group as assistant professor in Asteroseismology, Binary Evolution, and Gravitational-Wave Progenitors at the KU Leuven (Belgium). 
 My team  *StarHearts* is funded by an FWO Odysseus grant and a KU Leuven starting grant. Until February 2026, I will work (40%) as a NWO-Veni fellow at the University of Amsterdam (Netherlands).
 
-A detailed, up-to-date list of my publications can be found at [ADS](https://ui.adsabs.harvard.edu/public-libraries/MsPZZawhQSG7g0YRmqvmog) or [ORCID](https://orcid.org/0000-0003-1009-5691).
-
 Previously, I was a postdoctoral researcher  at the 
 [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/), Germany, in the 
 group of [Fabian Schneider](https://www.fabian-schneider.com/), where I worked on the pre-supernova properties of massive binary stars, the formation of black holes, and stellar explosions, and also led the outreach project [Habitable](https://www.hochschulwettbewerb.net/2023/heidelberg/). 

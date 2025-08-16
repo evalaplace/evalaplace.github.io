@@ -8,7 +8,7 @@ header:
  caption: "Credit: NASA, ESA, and STScI"
 ---
 
-A detailed, up-to-date list of all publications can be found at [ADS](https://ui.adsabs.harvard.edu/public-libraries/MsPZZawhQSG7g0YRmqvmog) or [ORCID](https://orcid.org/0000-0003-1009-5691).
+A detailed, up-to-date list of all publications can be found at [ORCID](https://orcid.org/0000-0003-1009-5691) and at [ADS](https://ui.adsabs.harvard.edu/public-libraries/MsPZZawhQSG7g0YRmqvmog).
 
 
 <h2>A selection of articles </h2>
@@ -49,7 +49,11 @@ R. Farmer, **E. Laplace**, J.-Z. Ma, S. E. de Mink, and S. Justham
 * _Bimodal Black Hole Mass Distribution and Chirp Masses of Binary Black Hole Mergers_  
 F.R.N. Schneider, Ph. Podsiadlowski, and **E. Laplace**      
 2023, Astrophysical Journal Letters, 950, 2, id.L9; [doi:10.3847/2041-8213/acd77a](https://doi.org/10.3847/2041-8213/acd77a)
-* 
+
+* _The cosmic carbon footprint of massive stars stripped in binary systems_    
+R. Farmer; **E. Laplace**; S. E. de Mink & S. Justham   
+2021, Astrophysical Journal, 923, 2, id.214, [doi:10.3847/1538-4357/ac2f44](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..214F/abstract)
+
 * _Possible regular phenomena in EXO 2030+375_  
 **E. Laplace**; T. Mihara; Y. Moritani; M. Nakajima; T. Takagi; K. Makishima; A. Santangelo   
 2017, Astronomy & Astrophysics, 597,
@@ -62,11 +66,6 @@ A124; [doi:10.1051/0004-6361/201629373](https://ui.adsabs.harvard.edu/link_gatew
 
 [//]: # (2022, PhD thesis, University of Amsterdam, ISBN 9789464193886, [available on UvA-DARE]&#40;https://hdl.handle.net/11245.1/06fd9a37-2313-4cde-933d-35679fb319d8&#41;)
 
-[//]: # (* _The cosmic carbon footprint of massive stars stripped in binary systems_    )
-
-[//]: # (R. Farmer; **E. Laplace**; S. E. de Mink & S. Justham   )
-
-[//]: # (2021, Astrophysical Journal, 923, 2, id.214, [doi:10.3847/1538-4357/ac2f44]&#40;https://ui.adsabs.harvard.edu/abs/2021ApJ...923..214F/abstract&#41;)
 
 
 

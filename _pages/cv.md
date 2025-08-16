@@ -19,7 +19,7 @@ My team  *StarHearts* is funded by an FWO Odysseus grant and a KU Leuven startin
 Previously, I was a postdoctoral researcher  at the 
 [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/), Germany, in the 
 group of [Fabian Schneider](https://www.fabian-schneider.com/), where I worked on the pre-supernova properties of massive binary stars, the formation of black holes, 
-and stellar explosions. I also led the outreach project [Habitable](https://www.hochschulwettbewerb.net/2023/heidelberg/), a boardgame about what makes planets habitable and the connection to the Earth's climate crisis. 
+and stellar explosions. I also led the outreach project [Habitable](https://www.hochschulwettbewerb.net/2023/heidelberg/), a boardgame about the habitability of planets and the connection to the Earth's climate crisis. 
  
 I completed my PhD at the [Anton Pannekoek Institute](https://api.uva.nl/), University of Amsterdam, The Netherlands, in the
 BinCosmos group led by [Selma de Mink](http://www.selmademink.com/), with Stephen Justham as a co-advisor. My PhD work focused on understanding the late-time evolution, death,
@@ -31,12 +31,12 @@ Before I began my PhD, I
 completed a Bachelor of Science and then a Master of 
 Science degree in physics at the 
 [University of Tübingen](https://uni-tuebingen.de/), Germany. I specialized in the field of high energy astrophysics and 
- focused on understanding the properties of accreting X-ray pulsars and Be X-ray binaries. I completed my Bachelor thesis 
+ focused on understanding the properties of accreting X-ray binaries. I completed my Bachelor thesis 
  at the [European Space Astronomy Centre (ESAC)](https://www.esa.int/About_Us/ESAC), in Madrid, Spain, during a three months traineeship. 
   During my Master's thesis, I had the privilege to visit the [MAXI](http://maxi.riken.jp/top/index.html) team laboratory in [RIKEN](https://www.riken.jp/en/research/labs/rnc/high_ener_astro/), Wako-shi, Japan,
- for an extended stay of 9 months.
+ as an International Program Associate, for an extended stay of 9 months.
 
-For my research projects, I had the opportunity to work at the [National Astronomical Observatory of Japan](https://www.nao.ac.jp/en/) 
+For my undergraduate research projects, I had the opportunity to work at the [National Astronomical Observatory of Japan](https://www.nao.ac.jp/en/) 
 in Tokyo, Japan (2019), at the [Institut für Astronomie und Astrophysik](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-astrophysik/institut/astronomie/forschung/prof-santangelo-abteilung-hochenergieastrophysik/)
 in Tübingen, Germany (2013-2017), 
 at [RIKEN](https://www.riken.jp/en/research/labs/rnc/high_ener_astro/), near Tokyo, Japan (2016),

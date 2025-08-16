@@ -46,8 +46,9 @@ at [RIKEN](https://www.riken.jp/en/research/labs/rnc/high_ener_astro/), near Tok
 
 Another interest of mine is to develop computing and visualization tools for astrophysics. Tools I have developed so far include a real-time monitor of the activity of Be X-ray binaries, and TULIPS, the Tool for Understanding the Lives, Interiors, and Physics of Stars. Learn more about these in 
  the [computing tools](/tools/) section. I'm passionate about science communication and my efforts have been recognized 
-by multiple outreach awards, including the ET Outreach award of the Royal Holland Society of Sciences and Humanities for 
-[TULIPS](https://evalaplace.github.io/tools/tulips/) (2021) and the Hochschulwettbewerb, funded by the German Ministry of Education and Research, for [Habitable](https://www.hochschulwettbewerb.net/2023/heidelberg/) (2024).
+by multiple outreach awards. These include the ET Outreach award of the Royal Holland Society of Sciences and Humanities for 
+[TULIPS](https://evalaplace.github.io/tools/tulips/) (2021) and the Hochschulwettbewerb of Wisschenschaft im Dialog, 
+funded by the German Ministry of Education and Research, for [Habitable](https://www.hochschulwettbewerb.net/2023/heidelberg/) (2024).
 
 Originally, I come from Strasbourg (France). I'm European, with French and German nationalities.
 I'm committed to promoting an inclusive, diverse, and safe work environment and more sustainable practices in the times of climate crisis. 

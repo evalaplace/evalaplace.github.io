@@ -18,7 +18,8 @@ My team  *StarHearts* is funded by an FWO Odysseus grant and a KU Leuven startin
 
 Previously, I was a postdoctoral researcher  at the 
 [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/), Germany, in the 
-group of [Fabian Schneider](https://www.fabian-schneider.com/), where I worked on the pre-supernova properties of massive binary stars, the formation of black holes, and stellar explosions, and also led the outreach project [Habitable](https://www.hochschulwettbewerb.net/2023/heidelberg/). 
+group of [Fabian Schneider](https://www.fabian-schneider.com/), where I worked on the pre-supernova properties of massive binary stars, the formation of black holes, 
+and stellar explosions. I also led the outreach project [Habitable](https://www.hochschulwettbewerb.net/2023/heidelberg/), a boardgame about what makes planets habitable and the connection to the Earth's climate crisis. 
  
 I completed my PhD at the [Anton Pannekoek Institute](https://api.uva.nl/), University of Amsterdam, The Netherlands, in the
 BinCosmos group led by [Selma de Mink](http://www.selmademink.com/), with Stephen Justham as a co-advisor. My PhD work focused on understanding the late-time evolution, death,

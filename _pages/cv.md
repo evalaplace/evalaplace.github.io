@@ -15,7 +15,7 @@ show_date: true
 
 In 2025, I started a new research group as assistant professor in Asteroseismology, Binary Evolution, and Gravitational-Wave Progenitors 
 at the [Institute of Astronomy](https://fys.kuleuven.be/ster) of the KU Leuven (Belgium). 
-My team  *StarHearts* is funded by an FWO Odysseus grant and a KU Leuven starting grant. I also work (40%) as a NWO-Veni fellow at the [Anton Pannekoek Institute](https://api.uva.nl/) of the University of Amsterdam (Netherlands). 
+My team  *StarHearts* is funded by an FWO Odysseus grant and a KU Leuven starting grant. I work (40%) as a NWO-Veni fellow at the [Anton Pannekoek Institute](https://api.uva.nl/) of the University of Amsterdam (Netherlands). 
 I am also a member of the [Leuven Gravity Institute](https://www.kuleuven.be/lgi).
 
 Previously, I was a postdoctoral researcher  at the 

@@ -13,7 +13,7 @@ A detailed, up-to-date list of all publications can be found at [ORCID](https://
 
 <h2>A selection of articles </h2>
 
-* _It's written in the massive stars: The role of stellar physics in the formation of black holes _  
+* _It's written in the massive stars: The role of stellar physics in the formation of black holes_  
 **E. Laplace**, F.R.N. Schneider, and Ph. Podsiadlowski     
 2025, Astronomy & Astrophysics, 695, A71 [doi:10.1051/0004-6361/202451077](https://ui.adsabs.harvard.edu/abs/2025A%26A...695A..71L/abstract)
 

@@ -30,7 +30,7 @@ A detailed, up-to-date list of all publications can be found at [ORCID](https://
 2020, Astronomy & Astrophysics, 637, A6; [doi:10.1051/0004-6361/201937300](https://ui.adsabs.harvard.edu/link_gateway/2020A&A...637A...6L/doi:10.1051/0004-6361/201937300)
 
 * _Supernovae from stellar mergers and accretors of binary mass transfer: Implications for Type IIP, 1987A-like and interacting supernovae_  
-F.R.N. Schneider, **E. Laplace**, and Ph. Podsiadlowski
+F.R.N. Schneider, **E. Laplace**, and Ph. Podsiadlowski 
 2025, accepted for publication in Astronomy & Astrophysics ; [doi:10.48550/arXiv.2507.06391](https://ui.adsabs.harvard.edu/abs/2025arXiv250706391S/abstract)
 
 * _The landscape of binary core-collapse supernova progenitors and the late emergence of Wolf–Rayet winds_  

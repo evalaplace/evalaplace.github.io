@@ -13,10 +13,13 @@ header:
 
 
 
-Welcome to my webpage! I'm an assistant professor at KU Leuven and a Veni fellow at the University of Amsterdam.
- 
-My research focuses mainly on stellar astrophysics, in particular on the evolution of binary and multiple systems, their explosions, and afterlives. I am particularly interested in the evolution of massive stars, 
-supernovae, X-ray binaries, unexplained transients, and gravitational-wave progenitors.
+Welcome to my webpage! I'm an assistant professor at the KU Leuven (Belgium) and Veni fellow at the University of Amsterdam (Netherlands). 
+At the Institute of Astronomy of KU Leuven, I lead a research team on themes related to stellar astrophysics, the evolution 
+of binary and multiple systems, their explosions, pulsations, and afterlives and am the PI of the FWO-Odysseus grant "StarHearts". 
+I'm also a member of the Anton Pannekoek Institute in Amsterdam and of the Leuven Gravity Institute.
+
+My research focuses mainly on gravitational-waves progenitors, massive binary star evolution, stellar explosions, unexplained transients, and asteroseismology.
+
 
 
  

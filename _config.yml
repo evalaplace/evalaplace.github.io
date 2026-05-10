@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eva Laplace"
 title_separator          : "-"
 name                     : &name "Eva Laplace"
-description              : &description "Astrophysicist at HITS"
+description              : &description "Astrophysicist"
 url                      : https://evalaplace.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "evalaplace/evalaplace.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Eva Laplace"
-  avatar           : "Eva_Laplace.JPG"
-  bio              : "Astrophysicist at KU Leuven and the University of Amsterdam"
+  avatar           : "laplace_2026.jpg"
+  bio              : "Astrophysicist at KU Leuven"
   location         : "Leuven (Belgium)"
   employer         :
   pubmed           :

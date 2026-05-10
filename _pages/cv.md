@@ -13,12 +13,12 @@ show_date: true
 
 # Summary 
 
-In 2025, I started a new research group as assistant professor in Asteroseismology, Binary Evolution, and Gravitational-Wave Progenitors 
+In February 2025, I started a new research group as assistant professor in Asteroseismology, Binary Evolution, and Gravitational-Wave Progenitors 
 at the [Institute of Astronomy](https://fys.kuleuven.be/ster) of the KU Leuven (Belgium). 
-My team  *StarHearts* is funded by an FWO Odysseus grant and a KU Leuven starting grant. I work (40%) as a NWO-Veni fellow at the [Anton Pannekoek Institute](https://api.uva.nl/) of the University of Amsterdam (Netherlands). 
-I am also a member of the [Leuven Gravity Institute](https://www.kuleuven.be/lgi).
+My team  *StarHearts* is funded by an FWO Odysseus grant and a KU Leuven starting grant. I am the Principal Investigator of an NWO-Veni Talent Program that originally started at 
+the [Anton Pannekoek Institute](https://api.uva.nl/) of the University of Amsterdam (Netherlands) and now continues in Leuven. I am also a member of the [Leuven Gravity Institute](https://www.kuleuven.be/lgi).
 
-Previously, I was a postdoctoral researcher  at the 
+Previously, I was a postdoctoral researcher at the 
 [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/), Germany, in the 
 group of [Fabian Schneider](https://www.fabian-schneider.com/), where I worked on the pre-supernova properties of massive binary stars, the formation of black holes, 
 and stellar explosions. I also led the outreach project [Habitable](https://www.hochschulwettbewerb.net/2023/heidelberg/), a boardgame about the habitability of planets and the connection to the Earth's climate crisis. 

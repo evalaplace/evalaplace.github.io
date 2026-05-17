@@ -34,9 +34,13 @@ A detailed, up-to-date list of all publications can be found at [ORCID](https://
 **E. Laplace**, Y. Götberg, S. E. de Mink, S. Justham, and R. Farmer  
 2020, Astronomy & Astrophysics, 637, A6; [doi:10.1051/0004-6361/201937300](https://ui.adsabs.harvard.edu/link_gateway/2020A&A...637A...6L/doi:10.1051/0004-6361/201937300)
 
+* _Explosions of pulsating red supergiants: A natural pathway for the diversity of Type II-P/L supernovae_   
+V.A. Bronner, **E. Laplace**, F.R.N. Schneider, and Ph. Podsiadlowski     
+2025, Astronomy & Astrophysics, Volume 703, id.A61; [doi:10.1051/0004-6361/202554642](https://ui.adsabs.harvard.edu/link_gateway/2025A&A...703A..61B/doi:10.1051/0004-6361/202554642)
+
 * _Supernovae from stellar mergers and accretors of binary mass transfer: Implications for Type IIP, 1987A-like and interacting supernovae_  
 F.R.N. Schneider, **E. Laplace**, and Ph. Podsiadlowski 
-2025, accepted for publication in Astronomy & Astrophysics ; [doi:10.48550/arXiv.2507.06391](https://ui.adsabs.harvard.edu/abs/2025arXiv250706391S/abstract)
+2025, Astronomy & Astrophysics ; [doi:10.48550/arXiv.2507.06391](https://ui.adsabs.harvard.edu/abs/2025arXiv250706391S/abstract)
 
 * _The landscape of binary core-collapse supernova progenitors and the late emergence of Wolf–Rayet winds_  
 A. Gilkis, **E. Laplace**, I. Arcavi, T. Shenar and F.R.N. Schneider      

@@ -12,6 +12,11 @@ A detailed, up-to-date list of all publications can be found at [ORCID](https://
 
 <h2>A selection of articles </h2>
 
+* _Pulsations Change the Structures of Massive Stars before Explosion: Interpreting SN 2023ixf and SN 2024ggi_  
+**E. Laplace**, V.A. Bronner, F.R.N. Schneider, and Ph. Podsiadlowski   
+2026, The Astrophysical Journal Letters, 998, Issue 2, id. L40 [doi:10.3847/2041-8213/ae3d2e](https://ui.adsabs.harvard.edu/link_gateway/2026ApJ...998L..40L/doi:10.3847/2041-8213/ae3d2e)
+
+
 * _It's written in the massive stars: The role of stellar physics in the formation of black holes_  
 **E. Laplace**, F.R.N. Schneider, and Ph. Podsiadlowski     
 2025, Astronomy & Astrophysics, 695, A71 [doi:10.1051/0004-6361/202451077](https://ui.adsabs.harvard.edu/abs/2025A%26A...695A..71L/abstract)

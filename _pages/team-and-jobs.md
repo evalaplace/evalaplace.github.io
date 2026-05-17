@@ -20,7 +20,7 @@ header:
 | Zihan Wang                                                          | PhD Candidate (start: Sep. 2026)                                                                                                |
 | Vázsony Varga                                                       | PhD Candidate (start: Sep. 2026)                                                                                                |
 | Flore Poelmans                                                      | MSc Student                                                                                                                     |
-| Ishan Ghosh Coutinho                                                | MSc Student  -  summer internship                                                                                               |
+| Isha Ghosh Coutinho                                                 | MSc Student  -  summer internship                                                                                               |
 | Xander Dewulf                                                       | MSc Student  -  summer internship                                                                                               |
 
 <h2> Job opportunities </h2>
@@ -43,11 +43,11 @@ independent research program.
 Applicants must not have resided or worked in Belgium for more than 12 months in the 3 years prior to the deadline and should propose a high‑quality, 
 original research project with strong career‑development components.
 
-Early contact is highly encouraged so that I can assess the fit with our team and provide guidance on the proposal. The Leuven Institute of Astronomy offers generous support 
+Early contact (at least two months prior to the deadline) is highly encouraged so that I can assess the fit with our team and provide guidance on the proposal. The Leuven Institute of Astronomy offers generous support 
 for fellowship applications.
 
 <h3> PhD funding opportunities </h3>
-_Note: As the group will be at full capacity from September 2026 onward, I am currently only able to support new PhD 
+_Note: As the group is at full capacity from September 2026 onward, I am currently only able to support new PhD 
 applications in the role of co‑promotor._  
 
 Exceptionally qualified PhD applicants from EU-based universities may be eligible to apply for an [FWO PhD Fellowship](https://www.fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-fundamental-research/). 

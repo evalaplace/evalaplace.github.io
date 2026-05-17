@@ -8,7 +8,7 @@ header:
     caption: "Credit: ESA/Hubble & NASA; Acknowledgement: Judy Schmidt (geckzilla.com)"
 ---
 
-<h2> StarHeart Team members</h2>
+<h2> StarHearts Team members</h2>
 
 | Member                                                              | Role                                                                                                                            |
 |---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|

@@ -8,7 +8,7 @@ header:
     caption: "Credit: ESA/Hubble & NASA; Acknowledgement: Judy Schmidt (geckzilla.com)"
 ---
 
-<h2> Team members</h2>
+<h2> _StarHeart_ Team members</h2>
 
 | Member                                                              | Role                                                                                                                            |
 |---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -26,7 +26,7 @@ header:
 <h2> Job opportunities </h2>
 
 <h3> Open positions </h3>
-At present, there are no open positions within the StarHearts team. Exceptionally strong and motivated candidates 
+At present, there are no open positions within the _StarHearts_ team. Exceptionally strong and motivated candidates 
 whose research profile fits well with the group are nevertheless encouraged to apply with their own independent 
 research fellowships. Further details are provided below. 
 

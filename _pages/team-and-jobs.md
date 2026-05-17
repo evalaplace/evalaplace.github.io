@@ -47,8 +47,8 @@ Early contact (at least two months prior to the deadline) is highly encouraged s
 for fellowship applications.
 
 <h3> PhD funding opportunities </h3>
-_Note: As the group is at full capacity from September 2026 onward, I am currently only able to support new PhD 
-applications in the role of co‑promotor._  
+_Note: New PhD 
+applications are currently only supported in the role of co‑promotor._  
 
 Exceptionally qualified PhD applicants from EU-based universities may be eligible to apply for an [FWO PhD Fellowship](https://www.fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-fundamental-research/). 
 This highly-competitive fellowship requires 

@@ -16,9 +16,9 @@ header:
 | [Javier Morán Fraile](https://jmoran2611.github.io/)                | Postdoctoral Researcher                                                                                                         |
 | [Sofia Mesini](https://www.kuleuven.be/wieiswie/en/person/00183454) | PhD Candidate                                                                                                                   |
 | [Adam Parkosidis](https://adamparkosidis.github.io/)                | PhD Candidate (University of Amsterdam, as co-promotor. Main advisor: [Silvia Toonen](https://staff.fnwi.uva.nl/s.g.m.toonen/)) |
-| Lorens Niehof                                                       | PhD Candidate (start: Sep. 2026)                                                                                                |
-| Zihan Wang                                                          | PhD Candidate (start: Sep. 2026)                                                                                                |
-| Vázsony Varga                                                       | PhD Candidate (start: Sep. 2026)                                                                                                |
+| Lorens Niehof                                                       | PhD Candidate                                                                                                |
+| Zihan Wang                                                          | PhD Candidate                                                                                                |
+| Vázsony Varga                                                       | PhD Candidate                                                                                                |
 | Flore Poelmans                                                      | MSc Student                                                                                                                     |
 | Isha Ghosh Coutinho                                                 | MSc Student  -  summer internship                                                                                               |
 | Xander Dewulf                                                       | MSc Student  -  summer internship                                                                                               |
